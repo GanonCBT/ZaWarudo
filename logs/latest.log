@@ -1,0 +1,98 @@
+[14:26:35] [main/INFO]: Loading for game Minecraft 1.16.1
+[14:26:42] [main/INFO]: [FabricLoader] Loading 45 mods: fabric-screen-handler-api-v1@1.0.1+f362c86e02, minecraft@1.16.1, fabric-renderer-api-v1@0.2.13+eae12eb802, fabric-networking-blockentity-v0@0.2.5+b50ffc7b02, fabric-keybindings-v0@0.2.0+3fa9f7c502, inventorysorter@1.6.7-1.16, fabric-command-api-v1@1.0.8+5ce5339802, cloth-basic-math@0.5.1, fabricloader@0.8.9+build.203, fabric-tool-attribute-api-v1@1.1.4+5794386e02, fabric-renderer-indigo@0.3.2+4d66bed502, fabric-containers-v0@0.1.8+045df74f02, fabric-object-builder-api-v1@1.5.5+e00ecb5f02, fabric-dimensions-v1@1.0.0+a71b305302, fabric-biomes-v1@0.2.7+059ea86602, fabric-item-api-v1@1.0.0+16acbe5b02, fabric-events-interaction-v0@0.3.3+7066030f02, fabric-crash-report-info-v1@0.1.2+b7f9825d02, kyrptconfig@1.0.4-1.16, fabric-api-base@0.1.3+12a8474c02, fabric-rendering-v0@1.1.0+5341049002, fabric-rendering-v1@1.1.2+346247d702, fabric-key-binding-api-v1@1.0.0+e16a977402, cloth-config2@4.5.6, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d02, fabric-resource-loader-v0@0.2.6+f41e209802, fabric-textures-v0@1.0.4+eae12eb802, fabric-content-registries-v0@0.1.9+059ea86602, fabric-tag-extensions-v0@0.2.7+a4c57d8e02, blue_endless_jankson@+, fabric-rendering-fluids-v1@0.1.8+b7084faa02, fabric-registry-sync-v0@0.3.8+7dba2d6c02, fabric-commands-v0@0.2.0+52d3083602, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8902, fabric-lifecycle-events-v1@1.0.0+b0993bc102, fabric-mining-levels-v0@0.1.2+b764ce9902, fabric-renderer-registries-v1@2.0.1+5a0f9a6002, fabric-loot-tables-v1@0.1.10+059ea86602, fabric-events-lifecycle-v0@0.2.0+16acbe5b02, fabric@0.14.1+build.372-1.16, fabric-particles-v1@0.2.1+0a6f2a7002, fabric-models-v0@0.1.0+dfdb52d602, fabric-item-groups-v0@0.2.0+438f963602, fabric-object-builders-v0@0.6.0+da175ad602, fabric-networking-v0@0.1.10+e00ecb5f02
+[14:26:42] [main/WARN]: Mod `blue_endless_jankson` (+) does not respect SemVer - comparison support is limited.
+[14:26:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/sruiz/Documents/MinecraftServers/ZaWarudo/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[14:26:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:26:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:48] [main/INFO]: Reloading ResourceManager: Default, anti creeper grief v1.0.2.zip, anti enderman grief v1.0.0.zip, anti ghast grief v1.0.0.zip, double shulker shells v1.2.0.zip, Fabric Tool Attribute API (v1), VanillaTweaks_c969857.zip
+[14:26:48] [Worker-Main-12/INFO]: Loaded 7 recipes
+[14:26:49] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[14:26:49] [Worker-Main-12/INFO]: Loaded 934 advancements
+[14:26:51] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[14:26:51] [Server thread/INFO]: Loading properties
+[14:26:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:26:51] [Server thread/INFO]: Generating keypair
+[14:26:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:51] [Server thread/INFO]: Using default channel type
+[14:26:52] [Server thread/INFO]: Preparing level "ZaWarudo"
+[14:26:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:53] [Server thread/INFO]: Time elapsed: 947 ms
+[14:26:53] [Server thread/INFO]: Done (1.039s)! For help, type "help"
+[15:46:25] [User Authenticator #1/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[15:46:25] [Server thread/INFO]: tomisherio[/184.103.253.150:60139] logged in with entity id 241 at (8.699999988079062, 95.0, 76.76247021616415)
+[15:46:25] [Server thread/INFO]: tomisherio joined the game
+[15:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6925ms or 138 ticks behind
+[15:46:58] [Server thread/INFO]: Villager class_1646['Villager'/289, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.38, z=138.70] died, message: 'Villager was squished too much'
+[15:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6745ms or 134 ticks behind
+[15:54:16] [Server thread/INFO]: Villager class_1646['Villager'/308, l='ServerLevel[ZaWarudo]', x=-58.76, y=69.54, z=138.70] died, message: 'Villager was squished too much'
+[16:06:15] [Server thread/WARN]: tomisherio moved wrongly!
+[16:28:13] [Server thread/INFO]: Villager class_1646['Villager'/307, l='ServerLevel[ZaWarudo]', x=-58.88, y=69.51, z=138.18] died, message: 'Villager was squished too much'
+[16:34:47] [Server thread/INFO]: Villager class_1646['Villager'/315, l='ServerLevel[ZaWarudo]', x=-58.75, y=69.50, z=138.22] died, message: 'Villager was squished too much'
+[16:39:16] [Server thread/INFO]: <tomisherio> 1200 -100
+[16:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[16:48:10] [Server thread/INFO]: <tomisherio> -1350 -750
+[16:51:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1146, y=64, z=5} class_2338{x=1148, y=64, z=5}
+[16:51:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1145, y=68, z=4} class_2338{x=1145, y=67, z=6}
+[16:51:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1145, y=68, z=4} class_2338{x=1145, y=67, z=6}
+[16:53:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=96, z=-756} class_2338{x=-1262, y=95, z=-754}
+[16:53:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=96, z=-756} class_2338{x=-1262, y=95, z=-754}
+[16:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=96, z=-754} class_2338{x=-1263, y=94, z=-752}
+[16:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=96, z=-754} class_2338{x=-1263, y=94, z=-752}
+[16:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=96, z=-754} class_2338{x=-1263, y=94, z=-752}
+[16:59:20] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[16:59:20] [Server thread/INFO]: tomisherio left the game
+[17:00:12] [User Authenticator #2/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:00:12] [Server thread/INFO]: tomisherio[/184.103.253.150:60583] logged in with entity id 27767 at (12.11938213420268, 128.0, -101.37616282250978)
+[17:00:12] [Server thread/INFO]: tomisherio joined the game
+[17:00:48] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[17:00:48] [Server thread/INFO]: tomisherio left the game
+[17:01:35] [User Authenticator #3/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:01:35] [Server thread/INFO]: tomisherio[/184.103.253.150:60625] logged in with entity id 27931 at (12.11938213420268, 128.0, -101.37616282250978)
+[17:01:35] [Server thread/INFO]: tomisherio joined the game
+[17:03:53] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[17:03:53] [Server thread/INFO]: tomisherio left the game
+[17:04:28] [User Authenticator #4/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:04:28] [Server thread/INFO]: tomisherio[/184.103.253.150:60663] logged in with entity id 29034 at (-1641.4252803034067, 51.678723898527586, 1310.116391058211)
+[17:04:28] [Server thread/INFO]: tomisherio joined the game
+[17:07:49] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[17:07:49] [Server thread/INFO]: tomisherio left the game
+[17:08:25] [User Authenticator #5/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:08:25] [Server thread/INFO]: tomisherio[/184.103.253.150:60701] logged in with entity id 30454 at (-1554.300000011921, 89.0, 1462.1005694751912)
+[17:08:25] [Server thread/INFO]: tomisherio joined the game
+[17:14:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3758, y=74, z=1993} class_2338{x=3759, y=73, z=1994}
+[17:14:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3758, y=74, z=1993} class_2338{x=3759, y=73, z=1994}
+[17:14:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3756, y=72, z=1993} class_2338{x=3757, y=70, z=1994}
+[17:14:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3756, y=72, z=1993} class_2338{x=3757, y=70, z=1994}
+[17:14:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3756, y=72, z=1993} class_2338{x=3757, y=70, z=1994}
+[17:21:13] [Server thread/INFO]: Villager class_1646['Villager'/310, l='ServerLevel[ZaWarudo]', x=-58.73, y=69.42, z=138.11] died, message: 'Villager was squished too much'
+[17:38:43] [Server thread/INFO]: Villager class_1646['Villager'/317, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.49, z=138.25] died, message: 'Villager was squished too much'
+[17:52:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46510, l='ServerLevel[ZaWarudo]', x=-67.36, y=72.00, z=59.70]
+[18:01:30] [Server thread/INFO]: Villager class_1646['Villager'/304, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.19, z=138.42] died, message: 'Villager was squished too much'
+[18:01:50] [Server thread/INFO]: Villager class_1646['Villager'/293, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.26, z=138.70] died, message: 'Villager was squished too much'
+[18:02:52] [Server thread/INFO]: Villager class_1646['Villager'/303, l='ServerLevel[ZaWarudo]', x=-58.72, y=69.53, z=138.11] died, message: 'Villager was squished too much'
+[18:19:48] [Server thread/WARN]: tomisherio moved too quickly! 1012.8131443110744,13.580000013113022,-1746.8961398438194
+[18:19:48] [Server thread/WARN]: Entity class_3222['tomisherio'/30454, l='ServerLevel[ZaWarudo]', x=100.00, y=49.00, z=0.00] left loaded chunk area
+[18:19:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:19:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:03:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/66669, l='ServerLevel[ZaWarudo]', x=-13.78, y=6.00, z=14.55]
+[19:11:15] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:11:15] [Server thread/INFO]: tomisherio left the game
+[19:13:16] [Server thread/INFO]: Stopping the server
+[19:13:16] [Server thread/INFO]: Stopping server
+[19:13:16] [Server thread/INFO]: Saving players
+[19:13:16] [Server thread/INFO]: Saving worlds
+[19:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:overworld
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[19:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_nether
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_end
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

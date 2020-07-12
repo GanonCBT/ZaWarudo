@@ -1,0 +1,635 @@
+---- Minecraft Profiler Results ----
+// Now with less numbers
+
+Version: 1.16.1
+Time span: 233154 ms
+Tick span: 4664 ticks
+// This is approximately 20.00 ticks per second. It should be 20 ticks per second
+
+--- BEGIN PROFILE DUMP ---
+
+[00] nextTickWait(4663/1) - 91.21%/91.21%
+[01] |   #getEntities 868/0
+[01] |   #runTask 1392/0
+[01] |   #getChunkCacheMiss 148/0
+[01] |   #getChunk 55785/11
+[01] |   unspecified(4663/1) - 99.99%/91.20%
+[01] |   move(844/0) - 0.01%/0.00%
+[02] |   |   #getEntities 844/0
+[02] |   |   #getChunkCacheMiss 168/0
+[02] |   |   #getChunk 12756/2
+[01] |   rest(844/0) - 0.00%/0.00%
+[02] |   |   #getChunkCacheMiss 17/0
+[02] |   |   #getChunk 17047/3
+[00] tick(4663/1) - 8.79%/8.79%
+[01] |   levels(4664/1) - 96.18%/8.45%
+[02] |   |   ServerLevel[ZaWarudo] minecraft:the_end(4664/1) - 89.63%/7.58%
+[03] |   |   |   tick(4664/1) - 99.93%/7.57%
+[04] |   |   |   |   entities(4664/1) - 78.91%/5.97%
+[05] |   |   |   |   |   tick(388564/83) - 96.03%/5.74%
+[06] |   |   |   |   |   |   minecraft:enderman(339809/73) - 88.97%/5.10%
+[07] |   |   |   |   |   |   |   #tickNonPassenger 339809/72
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 1/0
+[07] |   |   |   |   |   |   |   #getChunk 339745/72
+[07] |   |   |   |   |   |   |   ai(339809/73) - 38.45%/1.96%
+[08] |   |   |   |   |   |   |   |   newAi(339789/73) - 97.77%/1.92%
+[09] |   |   |   |   |   |   |   |   |   targetSelector(339789/73) - 46.64%/0.89%
+[10] |   |   |   |   |   |   |   |   |   |   goalUpdate(339789/73) - 72.49%/0.65%
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunkNow 2941784/630
+[11] |   |   |   |   |   |   |   |   |   |   |   #getLoadedEntities 34076/7
+[11] |   |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 91.93%/0.60%
+[11] |   |   |   |   |   |   |   |   |   |   |   canSee(34072/7) - 8.07%/0.05%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 42288/9
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunk 236710/50
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 14.70%/0.13%
+[10] |   |   |   |   |   |   |   |   |   |   goalCleanup(339789/73) - 9.76%/0.09%
+[11] |   |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 99.88%/0.09%
+[11] |   |   |   |   |   |   |   |   |   |   |   canSee(42/0) - 0.12%/0.00%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 46/0
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunk 1212/0
+[10] |   |   |   |   |   |   |   |   |   |   goalTick(339789/73) - 3.05%/0.03%
+[09] |   |   |   |   |   |   |   |   |   goalSelector(339789/73) - 31.43%/0.60%
+[10] |   |   |   |   |   |   |   |   |   |   goalUpdate(339789/73) - 53.93%/0.33%
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 692/0
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunk 21404/4
+[11] |   |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 98.53%/0.32%
+[11] |   |   |   |   |   |   |   |   |   |   |   pathfind(56/0) - 0.74%/0.00%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunkNow 5649/1
+[11] |   |   |   |   |   |   |   |   |   |   |   canSee(2743/1) - 0.72%/0.00%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunk 7334/1
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 20.15%/0.12%
+[10] |   |   |   |   |   |   |   |   |   |   goalCleanup(339789/73) - 16.18%/0.10%
+[10] |   |   |   |   |   |   |   |   |   |   goalTick(339789/73) - 9.74%/0.06%
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 640/0
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunk 96566/20
+[09] |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 11.87%/0.23%
+[09] |   |   |   |   |   |   |   |   |   controls(339789/73) - 8.18%/0.16%
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(339789/73) - 73.23%/0.11%
+[10] |   |   |   |   |   |   |   |   |   |   look(339789/73) - 15.47%/0.02%
+[10] |   |   |   |   |   |   |   |   |   |   move(339789/73) - 6.50%/0.01%
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunk 125/0
+[10] |   |   |   |   |   |   |   |   |   |   jump(339789/73) - 4.80%/0.01%
+[09] |   |   |   |   |   |   |   |   |   sensing(339789/73) - 0.87%/0.02%
+[09] |   |   |   |   |   |   |   |   |   navigation(339789/73) - 0.61%/0.01%
+[10] |   |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 5/0
+[10] |   |   |   |   |   |   |   |   |   |   #getChunk 368/0
+[09] |   |   |   |   |   |   |   |   |   mob tick(339789/73) - 0.40%/0.01%
+[08] |   |   |   |   |   |   |   |   unspecified(339809/73) - 2.23%/0.04%
+[07] |   |   |   |   |   |   |   travel(339809/73) - 29.24%/1.49%
+[08] |   |   |   |   |   |   |   |   #getChunk 1029366/220
+[08] |   |   |   |   |   |   |   |   move(339809/73) - 72.61%/1.08%
+[09] |   |   |   |   |   |   |   |   |   #getEntities 339809/72
+[09] |   |   |   |   |   |   |   |   |   #getChunkCacheMiss 93060/19
+[09] |   |   |   |   |   |   |   |   |   #getChunk 12309346/2639
+[08] |   |   |   |   |   |   |   |   rest(339809/73) - 18.12%/0.27%
+[09] |   |   |   |   |   |   |   |   |   #getChunk 5536249/1187
+[08] |   |   |   |   |   |   |   |   unspecified(339809/73) - 9.28%/0.14%
+[07] |   |   |   |   |   |   |   push(339809/73) - 11.89%/0.61%
+[08] |   |   |   |   |   |   |   |   #getEntities 339810/72
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 37/0
+[08] |   |   |   |   |   |   |   |   #getChunk 7085104/1519
+[08] |   |   |   |   |   |   |   |   unspecified(339809/73) - 100.00%/0.61%
+[08] |   |   |   |   |   |   |   |   chunkCheck(1/0) - 0.00%/0.00%
+[09] |   |   |   |   |   |   |   |   |   #getChunk 2/0
+[07] |   |   |   |   |   |   |   unspecified(339809/73) - 9.11%/0.46%
+[07] |   |   |   |   |   |   |   livingEntityBaseTick(339809/73) - 6.98%/0.36%
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 83/0
+[08] |   |   |   |   |   |   |   |   #getChunk 6875824/1474
+[07] |   |   |   |   |   |   |   entityBaseTick(339809/73) - 2.81%/0.14%
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 43/0
+[08] |   |   |   |   |   |   |   |   #getChunk 2443831/523
+[07] |   |   |   |   |   |   |   mobBaseTick(339809/73) - 0.87%/0.04%
+[07] |   |   |   |   |   |   |   headTurn(339809/73) - 0.36%/0.02%
+[07] |   |   |   |   |   |   |   rangeChecks(339809/73) - 0.11%/0.01%
+[07] |   |   |   |   |   |   |   jump(339809/73) - 0.09%/0.00%
+[08] |   |   |   |   |   |   |   |   #getChunk 10/0
+[07] |   |   |   |   |   |   |   looting(339809/73) - 0.08%/0.00%
+[06] |   |   |   |   |   |   minecraft:experience_orb(18633/4) - 3.21%/0.18%
+[07] |   |   |   |   |   |   |   #getEntities 18633/3
+[07] |   |   |   |   |   |   |   #tickNonPassenger 18633/3
+[07] |   |   |   |   |   |   |   #getChunk 614889/131
+[07] |   |   |   |   |   |   |   move(18633/4) - 50.32%/0.09%
+[08] |   |   |   |   |   |   |   |   #getEntities 18633/3
+[08] |   |   |   |   |   |   |   |   #getChunk 583800/125
+[07] |   |   |   |   |   |   |   unspecified(18633/4) - 39.14%/0.07%
+[07] |   |   |   |   |   |   |   rest(18633/4) - 7.07%/0.01%
+[08] |   |   |   |   |   |   |   |   #getChunk 186330/39
+[07] |   |   |   |   |   |   |   entityBaseTick(18633/4) - 3.47%/0.01%
+[08] |   |   |   |   |   |   |   |   #getChunk 93165/19
+[06] |   |   |   |   |   |   minecraft:endermite(4664/1) - 2.37%/0.14%
+[07] |   |   |   |   |   |   |   #tickPassenger 4664/1
+[07] |   |   |   |   |   |   |   ai(4664/1) - 39.41%/0.05%
+[08] |   |   |   |   |   |   |   |   newAi(4664/1) - 97.38%/0.05%
+[09] |   |   |   |   |   |   |   |   |   targetSelector(4664/1) - 48.89%/0.03%
+[10] |   |   |   |   |   |   |   |   |   |   goalUpdate(4664/1) - 57.18%/0.01%
+[11] |   |   |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 89.49%/0.01%
+[11] |   |   |   |   |   |   |   |   |   |   |   canSee(930/0) - 10.51%/0.00%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunk 3424/0
+[10] |   |   |   |   |   |   |   |   |   |   goalCleanup(4664/1) - 21.91%/0.01%
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 17.83%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   goalTick(4664/1) - 3.07%/0.00%
+[09] |   |   |   |   |   |   |   |   |   goalSelector(4664/1) - 25.95%/0.01%
+[10] |   |   |   |   |   |   |   |   |   |   goalUpdate(4664/1) - 47.87%/0.01%
+[11] |   |   |   |   |   |   |   |   |   |   |   #getChunk 293/0
+[11] |   |   |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 98.86%/0.01%
+[11] |   |   |   |   |   |   |   |   |   |   |   canSee(32/0) - 1.14%/0.00%
+[12] |   |   |   |   |   |   |   |   |   |   |   |   #getChunk 64/0
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 24.33%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   goalCleanup(4664/1) - 18.29%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   goalTick(4664/1) - 9.51%/0.00%
+[09] |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 12.99%/0.01%
+[09] |   |   |   |   |   |   |   |   |   controls(4664/1) - 9.45%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   unspecified(4664/1) - 61.17%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   look(4664/1) - 20.91%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   jump(4664/1) - 10.05%/0.00%
+[10] |   |   |   |   |   |   |   |   |   |   move(4664/1) - 7.87%/0.00%
+[09] |   |   |   |   |   |   |   |   |   mob tick(4664/1) - 1.30%/0.00%
+[09] |   |   |   |   |   |   |   |   |   navigation(4664/1) - 1.07%/0.00%
+[09] |   |   |   |   |   |   |   |   |   sensing(4664/1) - 0.35%/0.00%
+[08] |   |   |   |   |   |   |   |   unspecified(4664/1) - 2.62%/0.00%
+[07] |   |   |   |   |   |   |   unspecified(4664/1) - 19.54%/0.03%
+[07] |   |   |   |   |   |   |   travel(4664/1) - 18.62%/0.03%
+[08] |   |   |   |   |   |   |   |   #getChunk 13992/3
+[08] |   |   |   |   |   |   |   |   move(4664/1) - 45.66%/0.01%
+[09] |   |   |   |   |   |   |   |   |   #getEntities 4664/1
+[09] |   |   |   |   |   |   |   |   |   #getChunk 18656/4
+[08] |   |   |   |   |   |   |   |   rest(4664/1) - 29.10%/0.01%
+[09] |   |   |   |   |   |   |   |   |   #getChunk 46640/10
+[08] |   |   |   |   |   |   |   |   unspecified(4664/1) - 25.24%/0.01%
+[07] |   |   |   |   |   |   |   livingEntityBaseTick(4664/1) - 11.67%/0.02%
+[08] |   |   |   |   |   |   |   |   #getChunk 93280/20
+[07] |   |   |   |   |   |   |   push(4664/1) - 5.96%/0.01%
+[08] |   |   |   |   |   |   |   |   #getEntities 4664/1
+[08] |   |   |   |   |   |   |   |   #getChunk 18656/4
+[07] |   |   |   |   |   |   |   entityBaseTick(4664/1) - 3.23%/0.00%
+[08] |   |   |   |   |   |   |   |   #getChunk 13992/3
+[07] |   |   |   |   |   |   |   headTurn(4664/1) - 0.75%/0.00%
+[07] |   |   |   |   |   |   |   mobBaseTick(4664/1) - 0.55%/0.00%
+[07] |   |   |   |   |   |   |   rangeChecks(4664/1) - 0.12%/0.00%
+[07] |   |   |   |   |   |   |   jump(4664/1) - 0.08%/0.00%
+[07] |   |   |   |   |   |   |   looting(4664/1) - 0.07%/0.00%
+[06] |   |   |   |   |   |   minecraft:minecart(4664/1) - 1.58%/0.09%
+[07] |   |   |   |   |   |   |   #getEntities 4664/1
+[07] |   |   |   |   |   |   |   #tickNonPassenger 4664/1
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 4528/0
+[07] |   |   |   |   |   |   |   #getChunk 55972/12
+[07] |   |   |   |   |   |   |   move(4664/1) - 54.53%/0.05%
+[08] |   |   |   |   |   |   |   |   #getEntities 4664/1
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 13538/2
+[08] |   |   |   |   |   |   |   |   #getChunk 83952/18
+[07] |   |   |   |   |   |   |   rest(4664/1) - 24.11%/0.02%
+[08] |   |   |   |   |   |   |   |   #getChunk 46640/10
+[07] |   |   |   |   |   |   |   unspecified(4664/1) - 21.37%/0.02%
+[06] |   |   |   |   |   |   minecraft:item(16049/3) - 1.53%/0.09%
+[07] |   |   |   |   |   |   |   #getEntities 16336/3
+[07] |   |   |   |   |   |   |   #tickNonPassenger 16049/3
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 8/0
+[07] |   |   |   |   |   |   |   #getChunk 540270/115
+[07] |   |   |   |   |   |   |   unspecified(16049/3) - 67.25%/0.06%
+[07] |   |   |   |   |   |   |   move(6710/1) - 19.41%/0.02%
+[08] |   |   |   |   |   |   |   |   #getEntities 6710/1
+[08] |   |   |   |   |   |   |   |   #getChunk 205645/44
+[07] |   |   |   |   |   |   |   rest(6710/1) - 7.50%/0.01%
+[08] |   |   |   |   |   |   |   |   #getChunk 31323/6
+[07] |   |   |   |   |   |   |   entityBaseTick(16049/3) - 5.84%/0.01%
+[08] |   |   |   |   |   |   |   |   #getChunk 42799/9
+[06] |   |   |   |   |   |   unspecified(388564/83) - 1.30%/0.07%
+[06] |   |   |   |   |   |   minecraft:player(9328/2) - 1.01%/0.06%
+[07] |   |   |   |   |   |   |   #tickNonPassenger 9328/2
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 333/0
+[07] |   |   |   |   |   |   |   #getChunk 2226/0
+[06] |   |   |   |   |   |   chunkCheck(6022/1) - 0.03%/0.00%
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 9/0
+[07] |   |   |   |   |   |   |   #getChunk 6270/1
+[06] |   |   |   |   |   |   minecraft:ender_pearl(45/0) - 0.00%/0.00%
+[07] |   |   |   |   |   |   |   #getEntities 48/0
+[07] |   |   |   |   |   |   |   #tickNonPassenger 45/0
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 41/0
+[07] |   |   |   |   |   |   |   #getChunk 110/0
+[07] |   |   |   |   |   |   |   unspecified(45/0) - 90.16%/0.00%
+[07] |   |   |   |   |   |   |   entityBaseTick(45/0) - 9.84%/0.00%
+[08] |   |   |   |   |   |   |   |   #getChunk 19/0
+[05] |   |   |   |   |   unspecified(4664/1) - 2.21%/0.13%
+[05] |   |   |   |   |   blockEntities(4664/1) - 1.20%/0.07%
+[06] |   |   |   |   |   |   minecraft:hopper(27984/6) - 63.21%/0.05%
+[07] |   |   |   |   |   |   |   #getEntities 47046/10
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 53/0
+[07] |   |   |   |   |   |   |   #getChunk 278981/59
+[06] |   |   |   |   |   |   unspecified(4664/1) - 18.79%/0.01%
+[06] |   |   |   |   |   |   minecraft:chest(27984/6) - 6.58%/0.00%
+[07] |   |   |   |   |   |   |   #getEntities 8/0
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 8/0
+[07] |   |   |   |   |   |   |   #getChunk 28000/6
+[06] |   |   |   |   |   |   minecraft:daylight_detector(27984/6) - 5.88%/0.00%
+[07] |   |   |   |   |   |   |   #getChunkCacheMiss 14/0
+[07] |   |   |   |   |   |   |   #getChunk 27984/6
+[06] |   |   |   |   |   |   minecraft:enchanting_table(4664/1) - 3.46%/0.00%
+[07] |   |   |   |   |   |   |   #getChunk 4664/1
+[06] |   |   |   |   |   |   minecraft:ender_chest(4664/1) - 2.08%/0.00%
+[07] |   |   |   |   |   |   |   #getChunk 4664/1
+[05] |   |   |   |   |   checkDespawn(393228/84) - 0.48%/0.03%
+[05] |   |   |   |   |   remove(388564/83) - 0.07%/0.00%
+[06] |   |   |   |   |   |   #getChunkCacheMiss 1/0
+[06] |   |   |   |   |   |   #getChunk 104/0
+[05] |   |   |   |   |   pendingBlockEntities(4664/1) - 0.00%/0.00%
+[04] |   |   |   |   chunkSource(4664/1) - 19.81%/1.50%
+[05] |   |   |   |   |   chunks(4664/1) - 95.45%/1.43%
+[06] |   |   |   |   |   |   pollingChunks(4664/1) - 92.84%/1.33%
+[07] |   |   |   |   |   |   |   unspecified(4664/1) - 70.04%/0.93%
+[07] |   |   |   |   |   |   |   spawner(953352/204) - 12.95%/0.17%
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 58932/12
+[08] |   |   |   |   |   |   |   |   #getChunk 112670/24
+[07] |   |   |   |   |   |   |   broadcast(2066862/443) - 5.17%/0.07%
+[07] |   |   |   |   |   |   |   iceandsnow(953352/204) - 4.86%/0.06%
+[08] |   |   |   |   |   |   |   |   #getChunkCacheMiss 121716/26
+[08] |   |   |   |   |   |   |   |   #getChunk 178641/38
+[07] |   |   |   |   |   |   |   naturalSpawnCount(4664/1) - 4.67%/0.06%
+[07] |   |   |   |   |   |   |   tickBlocks(953352/204) - 1.48%/0.02%
+[07] |   |   |   |   |   |   |   thunder(953352/204) - 0.81%/0.01%
+[07] |   |   |   |   |   |   |   customSpawners(4664/1) - 0.03%/0.00%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 7.16%/0.10%
+[05] |   |   |   |   |   purge(4664/1) - 4.08%/0.06%
+[05] |   |   |   |   |   unspecified(4664/1) - 0.25%/0.00%
+[05] |   |   |   |   |   unload(4664/1) - 0.22%/0.00%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 66.63%/0.00%
+[06] |   |   |   |   |   |   chunk_unload(4664/1) - 22.97%/0.00%
+[06] |   |   |   |   |   |   poi(4664/1) - 10.41%/0.00%
+[04] |   |   |   |   weather(4664/1) - 1.13%/0.09%
+[04] |   |   |   |   unspecified(4664/1) - 0.08%/0.01%
+[04] |   |   |   |   tickPending(4664/1) - 0.05%/0.00%
+[05] |   |   |   |   |   unspecified(4664/1) - 86.42%/0.00%
+[05] |   |   |   |   |   ticking(9328/2) - 9.73%/0.00%
+[05] |   |   |   |   |   cleaning(9328/2) - 3.84%/0.00%
+[04] |   |   |   |   blockEvents(4664/1) - 0.01%/0.00%
+[05] |   |   |   |   |   #getChunkCacheMiss 249/0
+[05] |   |   |   |   |   #getChunk 534/0
+[04] |   |   |   |   raid(4664/1) - 0.00%/0.00%
+[04] |   |   |   |   world border(4664/1) - 0.00%/0.00%
+[03] |   |   |   timeSync(233/0) - 0.06%/0.00%
+[03] |   |   |   unspecified(4664/1) - 0.01%/0.00%
+[02] |   |   ServerLevel[ZaWarudo] minecraft:overworld(4664/1) - 9.95%/0.84%
+[03] |   |   |   tick(4664/1) - 99.88%/0.84%
+[04] |   |   |   |   chunkSource(4664/1) - 97.74%/0.82%
+[05] |   |   |   |   |   chunks(4664/1) - 98.60%/0.81%
+[06] |   |   |   |   |   |   pollingChunks(4664/1) - 81.95%/0.66%
+[07] |   |   |   |   |   |   |   unspecified(4664/1) - 79.71%/0.53%
+[07] |   |   |   |   |   |   |   naturalSpawnCount(4664/1) - 11.45%/0.08%
+[07] |   |   |   |   |   |   |   broadcast(2056824/441) - 7.89%/0.05%
+[07] |   |   |   |   |   |   |   customSpawners(4664/1) - 0.95%/0.01%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 18.05%/0.15%
+[05] |   |   |   |   |   unspecified(4664/1) - 0.58%/0.00%
+[05] |   |   |   |   |   unload(4664/1) - 0.49%/0.00%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 68.07%/0.00%
+[06] |   |   |   |   |   |   chunk_unload(4664/1) - 27.32%/0.00%
+[06] |   |   |   |   |   |   poi(4664/1) - 4.61%/0.00%
+[05] |   |   |   |   |   purge(4664/1) - 0.32%/0.00%
+[04] |   |   |   |   unspecified(4664/1) - 0.91%/0.01%
+[04] |   |   |   |   tickPending(4664/1) - 0.59%/0.00%
+[05] |   |   |   |   |   unspecified(4664/1) - 73.72%/0.00%
+[05] |   |   |   |   |   ticking(9328/2) - 22.85%/0.00%
+[05] |   |   |   |   |   cleaning(9328/2) - 3.43%/0.00%
+[04] |   |   |   |   weather(4664/1) - 0.36%/0.00%
+[04] |   |   |   |   entities(4664/1) - 0.28%/0.00%
+[04] |   |   |   |   raid(4664/1) - 0.05%/0.00%
+[04] |   |   |   |   blockEvents(4664/1) - 0.05%/0.00%
+[04] |   |   |   |   world border(4664/1) - 0.01%/0.00%
+[03] |   |   |   unspecified(4664/1) - 0.11%/0.00%
+[03] |   |   |   timeSync(233/0) - 0.01%/0.00%
+[02] |   |   ServerLevel[ZaWarudo] minecraft:the_nether(4664/1) - 0.28%/0.02%
+[03] |   |   |   tick(4664/1) - 96.94%/0.02%
+[04] |   |   |   |   chunkSource(4664/1) - 51.36%/0.01%
+[05] |   |   |   |   |   chunks(4664/1) - 49.47%/0.01%
+[06] |   |   |   |   |   |   pollingChunks(4664/1) - 74.90%/0.00%
+[07] |   |   |   |   |   |   |   unspecified(4664/1) - 72.79%/0.00%
+[07] |   |   |   |   |   |   |   naturalSpawnCount(4664/1) - 16.71%/0.00%
+[07] |   |   |   |   |   |   |   customSpawners(4664/1) - 10.49%/0.00%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 25.10%/0.00%
+[05] |   |   |   |   |   unspecified(4664/1) - 23.99%/0.00%
+[05] |   |   |   |   |   unload(4664/1) - 20.34%/0.00%
+[06] |   |   |   |   |   |   unspecified(4664/1) - 60.83%/0.00%
+[06] |   |   |   |   |   |   chunk_unload(4664/1) - 22.58%/0.00%
+[06] |   |   |   |   |   |   poi(4664/1) - 16.59%/0.00%
+[05] |   |   |   |   |   purge(4664/1) - 6.19%/0.00%
+[04] |   |   |   |   unspecified(4664/1) - 20.81%/0.00%
+[04] |   |   |   |   tickPending(4664/1) - 14.62%/0.00%
+[05] |   |   |   |   |   unspecified(4664/1) - 82.49%/0.00%
+[05] |   |   |   |   |   ticking(9328/2) - 14.31%/0.00%
+[05] |   |   |   |   |   cleaning(9328/2) - 3.20%/0.00%
+[04] |   |   |   |   weather(4664/1) - 8.80%/0.00%
+[04] |   |   |   |   raid(4664/1) - 1.62%/0.00%
+[04] |   |   |   |   entities(4664/1) - 1.50%/0.00%
+[04] |   |   |   |   blockEvents(4664/1) - 0.69%/0.00%
+[04] |   |   |   |   world border(4664/1) - 0.60%/0.00%
+[03] |   |   |   unspecified(4664/1) - 2.82%/0.00%
+[03] |   |   |   timeSync(233/0) - 0.24%/0.00%
+[02] |   |   unspecified(4664/1) - 0.14%/0.01%
+[01] |   connection(4664/1) - 3.06%/0.27%
+[02] |   |   #getEntities 27984/6
+[02] |   |   #getChunkCacheMiss 932/0
+[02] |   |   #getChunk 764300/163
+[02] |   |   unspecified(4664/1) - 71.25%/0.19%
+[02] |   |   travel(9328/2) - 16.30%/0.04%
+[03] |   |   |   #getChunk 37312/8
+[03] |   |   |   move(9328/2) - 54.19%/0.02%
+[04] |   |   |   |   #getEntities 9328/2
+[04] |   |   |   |   #getChunkCacheMiss 60/0
+[04] |   |   |   |   #getChunk 293218/62
+[03] |   |   |   rest(9328/2) - 30.12%/0.01%
+[04] |   |   |   |   #getChunk 160544/34
+[03] |   |   |   unspecified(9328/2) - 15.70%/0.01%
+[02] |   |   livingEntityBaseTick(9328/2) - 6.84%/0.02%
+[03] |   |   |   #getChunkCacheMiss 180/0
+[03] |   |   |   #getChunk 299503/64
+[02] |   |   entityBaseTick(9328/2) - 2.95%/0.01%
+[03] |   |   |   #getChunkCacheMiss 199/0
+[03] |   |   |   #getChunk 104587/22
+[02] |   |   push(9328/2) - 1.01%/0.00%
+[03] |   |   |   #getEntities 9328/2
+[03] |   |   |   #getChunkCacheMiss 1/0
+[03] |   |   |   #getChunk 18640/3
+[02] |   |   ai(9328/2) - 0.99%/0.00%
+[03] |   |   |   unspecified(9328/2) - 74.75%/0.00%
+[03] |   |   |   newAi(9328/2) - 25.25%/0.00%
+[02] |   |   headTurn(9328/2) - 0.39%/0.00%
+[02] |   |   keepAlive(9328/2) - 0.19%/0.00%
+[02] |   |   rangeChecks(9328/2) - 0.05%/0.00%
+[02] |   |   jump(9328/2) - 0.04%/0.00%
+[01] |   commandFunctions(4664/1) - 0.49%/0.04%
+[02] |   |   minecraft:tick(4664/1) - 92.40%/0.04%
+[03] |   |   |   unspecified(4664/1) - 41.42%/0.02%
+[03] |   |   |   scoreboard players add #hc_tick hc_tick 1(4664/1) - 17.58%/0.01%
+[03] |   |   |   function #main:tick(4664/1) - 12.92%/0.01%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 1 run function #main:second(4664/1) - 6.88%/0.00%
+[03] |   |   |   execute as @e[type=minecraft:creeper,tag=!acg_tagged] at @s run data merge entity @s {ExplosionRadius:0}(233/0) - 6.28%/0.00%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 21 run function #main:second(4664/1) - 2.62%/0.00%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 81 run function #main:second(4664/1) - 2.37%/0.00%
+[03] |   |   |   tag @e[type=minecraft:creeper,tag=!acg_tagged] add acg_tagged(233/0) - 2.34%/0.00%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 100.. run scoreboard players set #hc_tick hc_tick 0(4664/1) - 2.22%/0.00%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 41 run function #main:second(4664/1) - 2.09%/0.00%
+[03] |   |   |   execute if score #hc_tick hc_tick matches 61 run function #main:second(4664/1) - 2.07%/0.00%
+[03] |   |   |   execute as @e[type=minecraft:ghast] at @s run data merge entity @s {ExplosionPower:0}(233/0) - 0.98%/0.00%
+[03] |   |   |   function acg:second(233/0) - 0.19%/0.00%
+[03] |   |   |   function anti_ghast:second(233/0) - 0.04%/0.00%
+[02] |   |   unspecified(4664/1) - 7.60%/0.00%
+[01] |   save(1/0) - 0.15%/0.01%
+[02] |   |   #chunkSave 87/0
+[01] |   unspecified(4663/1) - 0.08%/0.01%
+[01] |   tallying(4663/1) - 0.01%/0.00%
+[01] |   /tps(2/0) - 0.01%/0.00%
+[01] |   /tps help(1/0) - 0.00%/0.00%
+[01] |   players(4664/1) - 0.00%/0.00%
+[01] |   snooper(4663/1) - 0.00%/0.00%
+[01] |   server gui refresh(4664/1) - 0.00%/0.00%
+[01] |   /debug start(1/0) - 0.00%/0.00%
+[01] |   /execute as @s store result score @s TPS run debug stop(1/0) - 0.00%/0.00%
+[00] unspecified(4663/1) - 0.00%/0.00%
+--- END PROFILE DUMP ---
+
+--- BEGIN COUNTER DUMP ---
+
+-- Counter: chunkSave --
+[00] root total:0/87 average: 0/0
+[01] |   tick total:0/87 average: 0/0
+[02] |   |   save total:87/87 average: 0/0
+
+
+-- Counter: getChunk --
+[00] root total:0/41085537 average: 0/8809
+[01] |   tick total:0/40999949 average: 0/8790
+[02] |   |   levels total:0/39321845 average: 0/8430
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/39321845 average: 0/8430
+[04] |   |   |   |   tick total:0/39321845 average: 0/8430
+[05] |   |   |   |   |   entities total:0/39030000 average: 0/8368
+[06] |   |   |   |   |   |   tick total:0/38685603 average: 0/8294
+[07] |   |   |   |   |   |   |   minecraft:enderman total:339745/35983196 average: 72/7715
+[08] |   |   |   |   |   |   |   |   travel total:1029366/18874961 average: 220/4046
+[09] |   |   |   |   |   |   |   |   |   move total:12309346/12309346 average: 2639/2639
+[09] |   |   |   |   |   |   |   |   |   rest total:5536249/5536249 average: 1187/1187
+[08] |   |   |   |   |   |   |   |   push total:7085104/7085106 average: 1519/1519
+[09] |   |   |   |   |   |   |   |   |   chunkCheck total:2/2 average: 0/0
+[08] |   |   |   |   |   |   |   |   livingEntityBaseTick total:6875824/6875824 average: 1474/1474
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:2443831/2443831 average: 523/523
+[08] |   |   |   |   |   |   |   |   ai total:0/363719 average: 0/77
+[09] |   |   |   |   |   |   |   |   |   newAi total:0/363719 average: 0/77
+[10] |   |   |   |   |   |   |   |   |   |   targetSelector total:0/237922 average: 0/51
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:0/236710 average: 0/50
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:236710/236710 average: 50/50
+[11] |   |   |   |   |   |   |   |   |   |   |   goalCleanup total:0/1212 average: 0/0
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:1212/1212 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   goalSelector total:0/125304 average: 0/26
+[11] |   |   |   |   |   |   |   |   |   |   |   goalTick total:96566/96566 average: 20/20
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:21404/28738 average: 4/6
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:7334/7334 average: 1/1
+[10] |   |   |   |   |   |   |   |   |   |   navigation total:368/368 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   controls total:0/125 average: 0/0
+[11] |   |   |   |   |   |   |   |   |   |   |   move total:125/125 average: 0/0
+[08] |   |   |   |   |   |   |   |   jump total:10/10 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:experience_orb total:614889/1478184 average: 131/316
+[08] |   |   |   |   |   |   |   |   move total:583800/583800 average: 125/125
+[08] |   |   |   |   |   |   |   |   rest total:186330/186330 average: 39/39
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:93165/93165 average: 19/19
+[07] |   |   |   |   |   |   |   minecraft:item total:540270/820037 average: 115/175
+[08] |   |   |   |   |   |   |   |   move total:205645/205645 average: 44/44
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:42799/42799 average: 9/9
+[08] |   |   |   |   |   |   |   |   rest total:31323/31323 average: 6/6
+[07] |   |   |   |   |   |   |   minecraft:endermite total:0/208997 average: 0/44
+[08] |   |   |   |   |   |   |   |   livingEntityBaseTick total:93280/93280 average: 20/20
+[08] |   |   |   |   |   |   |   |   travel total:13992/79288 average: 3/17
+[09] |   |   |   |   |   |   |   |   |   rest total:46640/46640 average: 10/10
+[09] |   |   |   |   |   |   |   |   |   move total:18656/18656 average: 4/4
+[08] |   |   |   |   |   |   |   |   push total:18656/18656 average: 4/4
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:13992/13992 average: 3/3
+[08] |   |   |   |   |   |   |   |   ai total:0/3781 average: 0/0
+[09] |   |   |   |   |   |   |   |   |   newAi total:0/3781 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   targetSelector total:0/3424 average: 0/0
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:0/3424 average: 0/0
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:3424/3424 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   goalSelector total:0/357 average: 0/0
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:293/357 average: 0/0
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:64/64 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:minecart total:55972/186564 average: 12/40
+[08] |   |   |   |   |   |   |   |   move total:83952/83952 average: 18/18
+[08] |   |   |   |   |   |   |   |   rest total:46640/46640 average: 10/10
+[07] |   |   |   |   |   |   |   chunkCheck total:6270/6270 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:player total:2226/2226 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:ender_pearl total:110/129 average: 0/0
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:19/19 average: 0/0
+[06] |   |   |   |   |   |   blockEntities total:0/344293 average: 0/73
+[07] |   |   |   |   |   |   |   minecraft:hopper total:278981/278981 average: 59/59
+[07] |   |   |   |   |   |   |   minecraft:chest total:28000/28000 average: 6/6
+[07] |   |   |   |   |   |   |   minecraft:daylight_detector total:27984/27984 average: 6/6
+[07] |   |   |   |   |   |   |   minecraft:ender_chest total:4664/4664 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:enchanting_table total:4664/4664 average: 1/1
+[06] |   |   |   |   |   |   remove total:104/104 average: 0/0
+[05] |   |   |   |   |   chunkSource total:0/291311 average: 0/62
+[06] |   |   |   |   |   |   chunks total:0/291311 average: 0/62
+[07] |   |   |   |   |   |   |   pollingChunks total:0/291311 average: 0/62
+[08] |   |   |   |   |   |   |   |   iceandsnow total:178641/178641 average: 38/38
+[08] |   |   |   |   |   |   |   |   spawner total:112670/112670 average: 24/24
+[05] |   |   |   |   |   blockEvents total:534/534 average: 0/0
+[02] |   |   connection total:764300/1678104 average: 163/359
+[03] |   |   |   travel total:37312/491074 average: 8/105
+[04] |   |   |   |   move total:293218/293218 average: 62/62
+[04] |   |   |   |   rest total:160544/160544 average: 34/34
+[03] |   |   |   livingEntityBaseTick total:299503/299503 average: 64/64
+[03] |   |   |   entityBaseTick total:104587/104587 average: 22/22
+[03] |   |   |   push total:18640/18640 average: 3/3
+[01] |   nextTickWait total:55785/85588 average: 11/18
+[02] |   |   rest total:17047/17047 average: 3/3
+[02] |   |   move total:12756/12756 average: 2/2
+
+
+-- Counter: getChunkCacheMiss --
+[00] root total:0/338030 average: 0/72
+[01] |   tick total:0/337697 average: 0/72
+[02] |   |   levels total:0/336325 average: 0/72
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/336325 average: 0/72
+[04] |   |   |   |   tick total:0/336325 average: 0/72
+[05] |   |   |   |   |   chunkSource total:0/180648 average: 0/38
+[06] |   |   |   |   |   |   chunks total:0/180648 average: 0/38
+[07] |   |   |   |   |   |   |   pollingChunks total:0/180648 average: 0/38
+[08] |   |   |   |   |   |   |   |   iceandsnow total:121716/121716 average: 26/26
+[08] |   |   |   |   |   |   |   |   spawner total:58932/58932 average: 12/12
+[05] |   |   |   |   |   entities total:0/155428 average: 0/33
+[06] |   |   |   |   |   |   tick total:0/155352 average: 0/33
+[07] |   |   |   |   |   |   |   minecraft:enderman total:1/136895 average: 0/29
+[08] |   |   |   |   |   |   |   |   travel total:0/93060 average: 0/19
+[09] |   |   |   |   |   |   |   |   |   move total:93060/93060 average: 19/19
+[08] |   |   |   |   |   |   |   |   ai total:0/43671 average: 0/9
+[09] |   |   |   |   |   |   |   |   |   newAi total:0/43671 average: 0/9
+[10] |   |   |   |   |   |   |   |   |   |   targetSelector total:0/42334 average: 0/9
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:0/42288 average: 0/9
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:42288/42288 average: 9/9
+[11] |   |   |   |   |   |   |   |   |   |   |   goalCleanup total:0/46 average: 0/0
+[12] |   |   |   |   |   |   |   |   |   |   |   |   canSee total:46/46 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   goalSelector total:0/1332 average: 0/0
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:692/692 average: 0/0
+[11] |   |   |   |   |   |   |   |   |   |   |   goalTick total:640/640 average: 0/0
+[10] |   |   |   |   |   |   |   |   |   |   navigation total:5/5 average: 0/0
+[08] |   |   |   |   |   |   |   |   livingEntityBaseTick total:83/83 average: 0/0
+[08] |   |   |   |   |   |   |   |   entityBaseTick total:43/43 average: 0/0
+[08] |   |   |   |   |   |   |   |   push total:37/37 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:minecart total:4528/18066 average: 0/3
+[08] |   |   |   |   |   |   |   |   move total:13538/13538 average: 2/2
+[07] |   |   |   |   |   |   |   minecraft:player total:333/333 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:ender_pearl total:41/41 average: 0/0
+[07] |   |   |   |   |   |   |   chunkCheck total:9/9 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:item total:8/8 average: 0/0
+[06] |   |   |   |   |   |   blockEntities total:0/75 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:hopper total:53/53 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:daylight_detector total:14/14 average: 0/0
+[07] |   |   |   |   |   |   |   minecraft:chest total:8/8 average: 0/0
+[06] |   |   |   |   |   |   remove total:1/1 average: 0/0
+[05] |   |   |   |   |   blockEvents total:249/249 average: 0/0
+[02] |   |   connection total:932/1372 average: 0/0
+[03] |   |   |   entityBaseTick total:199/199 average: 0/0
+[03] |   |   |   livingEntityBaseTick total:180/180 average: 0/0
+[03] |   |   |   travel total:0/60 average: 0/0
+[04] |   |   |   |   move total:60/60 average: 0/0
+[03] |   |   |   push total:1/1 average: 0/0
+[01] |   nextTickWait total:148/333 average: 0/0
+[02] |   |   move total:168/168 average: 0/0
+[02] |   |   rest total:17/17 average: 0/0
+
+
+-- Counter: getChunkNow --
+[00] root total:0/2947433 average: 0/631
+[01] |   tick total:0/2947433 average: 0/631
+[02] |   |   levels total:0/2947433 average: 0/631
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/2947433 average: 0/631
+[04] |   |   |   |   tick total:0/2947433 average: 0/631
+[05] |   |   |   |   |   entities total:0/2947433 average: 0/631
+[06] |   |   |   |   |   |   tick total:0/2947433 average: 0/631
+[07] |   |   |   |   |   |   |   minecraft:enderman total:0/2947433 average: 0/631
+[08] |   |   |   |   |   |   |   |   ai total:0/2947433 average: 0/631
+[09] |   |   |   |   |   |   |   |   |   newAi total:0/2947433 average: 0/631
+[10] |   |   |   |   |   |   |   |   |   |   targetSelector total:0/2941784 average: 0/630
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:2941784/2941784 average: 630/630
+[10] |   |   |   |   |   |   |   |   |   |   goalSelector total:0/5649 average: 0/1
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:0/5649 average: 0/1
+[12] |   |   |   |   |   |   |   |   |   |   |   |   pathfind total:5649/5649 average: 1/1
+
+
+-- Counter: getEntities --
+[00] root total:0/854041 average: 0/183
+[01] |   tick total:0/852329 average: 0/182
+[02] |   |   levels total:0/805689 average: 0/172
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/805689 average: 0/172
+[04] |   |   |   |   tick total:0/805689 average: 0/172
+[05] |   |   |   |   |   entities total:0/805689 average: 0/172
+[06] |   |   |   |   |   |   tick total:0/758635 average: 0/162
+[07] |   |   |   |   |   |   |   minecraft:enderman total:0/679619 average: 0/145
+[08] |   |   |   |   |   |   |   |   push total:339810/339810 average: 72/72
+[08] |   |   |   |   |   |   |   |   travel total:0/339809 average: 0/72
+[09] |   |   |   |   |   |   |   |   |   move total:339809/339809 average: 72/72
+[07] |   |   |   |   |   |   |   minecraft:experience_orb total:18633/37266 average: 3/7
+[08] |   |   |   |   |   |   |   |   move total:18633/18633 average: 3/3
+[07] |   |   |   |   |   |   |   minecraft:item total:16336/23046 average: 3/4
+[08] |   |   |   |   |   |   |   |   move total:6710/6710 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:endermite total:0/9328 average: 0/2
+[08] |   |   |   |   |   |   |   |   travel total:0/4664 average: 0/1
+[09] |   |   |   |   |   |   |   |   |   move total:4664/4664 average: 1/1
+[08] |   |   |   |   |   |   |   |   push total:4664/4664 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:minecart total:4664/9328 average: 1/2
+[08] |   |   |   |   |   |   |   |   move total:4664/4664 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:ender_pearl total:48/48 average: 0/0
+[06] |   |   |   |   |   |   blockEntities total:0/47054 average: 0/10
+[07] |   |   |   |   |   |   |   minecraft:hopper total:47046/47046 average: 10/10
+[07] |   |   |   |   |   |   |   minecraft:chest total:8/8 average: 0/0
+[02] |   |   connection total:27984/46640 average: 6/10
+[03] |   |   |   travel total:0/9328 average: 0/2
+[04] |   |   |   |   move total:9328/9328 average: 2/2
+[03] |   |   |   push total:9328/9328 average: 2/2
+[01] |   nextTickWait total:868/1712 average: 0/0
+[02] |   |   move total:844/844 average: 0/0
+
+
+-- Counter: getLoadedEntities --
+[00] root total:0/34076 average: 0/7
+[01] |   tick total:0/34076 average: 0/7
+[02] |   |   levels total:0/34076 average: 0/7
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/34076 average: 0/7
+[04] |   |   |   |   tick total:0/34076 average: 0/7
+[05] |   |   |   |   |   entities total:0/34076 average: 0/7
+[06] |   |   |   |   |   |   tick total:0/34076 average: 0/7
+[07] |   |   |   |   |   |   |   minecraft:enderman total:0/34076 average: 0/7
+[08] |   |   |   |   |   |   |   |   ai total:0/34076 average: 0/7
+[09] |   |   |   |   |   |   |   |   |   newAi total:0/34076 average: 0/7
+[10] |   |   |   |   |   |   |   |   |   |   targetSelector total:0/34076 average: 0/7
+[11] |   |   |   |   |   |   |   |   |   |   |   goalUpdate total:34076/34076 average: 7/7
+
+
+-- Counter: runTask --
+[00] root total:0/1392 average: 0/0
+[01] |   nextTickWait total:1392/1392 average: 0/0
+
+
+-- Counter: tickNonPassenger --
+[00] root total:0/388528 average: 0/83
+[01] |   tick total:0/388528 average: 0/83
+[02] |   |   levels total:0/388528 average: 0/83
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/388528 average: 0/83
+[04] |   |   |   |   tick total:0/388528 average: 0/83
+[05] |   |   |   |   |   entities total:0/388528 average: 0/83
+[06] |   |   |   |   |   |   tick total:0/388528 average: 0/83
+[07] |   |   |   |   |   |   |   minecraft:enderman total:339809/339809 average: 72/72
+[07] |   |   |   |   |   |   |   minecraft:experience_orb total:18633/18633 average: 3/3
+[07] |   |   |   |   |   |   |   minecraft:item total:16049/16049 average: 3/3
+[07] |   |   |   |   |   |   |   minecraft:player total:9328/9328 average: 2/2
+[07] |   |   |   |   |   |   |   minecraft:minecart total:4664/4664 average: 1/1
+[07] |   |   |   |   |   |   |   minecraft:ender_pearl total:45/45 average: 0/0
+
+
+-- Counter: tickPassenger --
+[00] root total:0/4664 average: 0/1
+[01] |   tick total:0/4664 average: 0/1
+[02] |   |   levels total:0/4664 average: 0/1
+[03] |   |   |   ServerLevel[ZaWarudo] minecraft:the_end total:0/4664 average: 0/1
+[04] |   |   |   |   tick total:0/4664 average: 0/1
+[05] |   |   |   |   |   entities total:0/4664 average: 0/1
+[06] |   |   |   |   |   |   tick total:0/4664 average: 0/1
+[07] |   |   |   |   |   |   |   minecraft:endermite total:4664/4664 average: 1/1
+
+
+--- END COUNTER DUMP ---
+
