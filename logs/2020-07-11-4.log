@@ -1,0 +1,48 @@
+[20:24:44] [main/INFO]: Loading for game Minecraft 1.16.1
+[20:24:51] [main/INFO]: [FabricLoader] Loading 45 mods: fabric-screen-handler-api-v1@1.0.1+f362c86e02, minecraft@1.16.1, fabric-renderer-api-v1@0.2.13+eae12eb802, fabric-networking-blockentity-v0@0.2.5+b50ffc7b02, fabric-keybindings-v0@0.2.0+3fa9f7c502, inventorysorter@1.6.7-1.16, fabric-command-api-v1@1.0.8+5ce5339802, cloth-basic-math@0.5.1, fabricloader@0.8.9+build.203, fabric-tool-attribute-api-v1@1.1.4+5794386e02, fabric-renderer-indigo@0.3.2+4d66bed502, fabric-containers-v0@0.1.8+045df74f02, fabric-object-builder-api-v1@1.5.5+e00ecb5f02, fabric-dimensions-v1@1.0.0+a71b305302, fabric-biomes-v1@0.2.7+059ea86602, fabric-item-api-v1@1.0.0+16acbe5b02, fabric-crash-report-info-v1@0.1.2+b7f9825d02, fabric-events-interaction-v0@0.3.3+7066030f02, kyrptconfig@1.0.4-1.16, fabric-api-base@0.1.3+12a8474c02, fabric-rendering-v0@1.1.0+5341049002, fabric-rendering-v1@1.1.2+346247d702, fabric-key-binding-api-v1@1.0.0+e16a977402, cloth-config2@4.5.6, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d02, fabric-resource-loader-v0@0.2.6+f41e209802, fabric-textures-v0@1.0.4+eae12eb802, fabric-content-registries-v0@0.1.9+059ea86602, fabric-tag-extensions-v0@0.2.7+a4c57d8e02, blue_endless_jankson@+, fabric-rendering-fluids-v1@0.1.8+b7084faa02, fabric-registry-sync-v0@0.3.8+7dba2d6c02, fabric-commands-v0@0.2.0+52d3083602, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8902, fabric-lifecycle-events-v1@1.0.0+b0993bc102, fabric-mining-levels-v0@0.1.2+b764ce9902, fabric-renderer-registries-v1@2.0.1+5a0f9a6002, fabric-loot-tables-v1@0.1.10+059ea86602, fabric-events-lifecycle-v0@0.2.0+16acbe5b02, fabric@0.14.1+build.372-1.16, fabric-particles-v1@0.2.1+0a6f2a7002, fabric-models-v0@0.1.0+dfdb52d602, fabric-item-groups-v0@0.2.0+438f963602, fabric-networking-v0@0.1.10+e00ecb5f02, fabric-object-builders-v0@0.6.0+da175ad602
+[20:24:51] [main/WARN]: Mod `blue_endless_jankson` (+) does not respect SemVer - comparison support is limited.
+[20:24:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/sruiz/Documents/MinecraftServers/ZaWarudo/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[20:24:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:24:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:57] [main/INFO]: Reloading ResourceManager: Default, anti creeper grief v1.0.2.zip, anti enderman grief v1.0.0.zip, anti ghast grief v1.0.0.zip, double shulker shells v1.2.0.zip, Fabric Tool Attribute API (v1), VanillaTweaks_c969857.zip
+[20:24:58] [Worker-Main-13/INFO]: Loaded 7 recipes
+[20:24:59] [Worker-Main-13/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[20:24:59] [Worker-Main-13/INFO]: Loaded 934 advancements
+[20:25:00] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[20:25:00] [Server thread/INFO]: Loading properties
+[20:25:00] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:00] [Server thread/INFO]: Generating keypair
+[20:25:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:01] [Server thread/INFO]: Using default channel type
+[20:25:01] [Server thread/INFO]: Preparing level "ZaWarudo"
+[20:25:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:02] [Server thread/INFO]: Preparing spawn area: 46%
+[20:25:03] [Server thread/INFO]: Time elapsed: 1345 ms
+[20:25:03] [Server thread/INFO]: Done (1.483s)! For help, type "help"
+[20:25:04] [User Authenticator #2/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[20:25:04] [User Authenticator #1/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[20:25:04] [Server thread/INFO]: unikittiezz[/192.168.1.1:50238] logged in with entity id 198 at (-1301.47436219189, 75.0, 70.10649329275932)
+[20:25:04] [Server thread/INFO]: unikittiezz joined the game
+[20:25:04] [Server thread/INFO]: Id0nutcare[/192.168.1.1:49444] logged in with entity id 202 at (-1294.5017849749731, 75.0, 74.69999998807899)
+[20:25:04] [Server thread/INFO]: Id0nutcare joined the game
+[20:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[20:33:05] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[20:33:05] [Server thread/INFO]: Id0nutcare left the game
+[20:36:47] [User Authenticator #3/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[20:36:47] [Server thread/INFO]: Id0nutcare[/192.168.1.1:49861] logged in with entity id 1567 at (-1300.699999988079, 75.0, 72.09838457479798)
+[20:36:47] [Server thread/INFO]: Id0nutcare joined the game
+[20:44:17] [Server thread/INFO]: Id0nutcare has made the advancement [Sweet Dreams]
+[21:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
+[21:07:01] [Server thread/WARN]: Id0nutcare moved too quickly! 10.042789008229192,1.1661092609382138,-0.31671725905857784
+[21:38:01] [Server thread/INFO]: Villager class_1646['Villager'/20698, l='ServerLevel[ZaWarudo]', x=-1455.63, y=63.56, z=-1425.28] died, message: 'Villager suffocated in a wall'
+[21:38:17] [Server thread/INFO]: Villager class_1646['Villager'/20756, l='ServerLevel[ZaWarudo]', x=-1442.28, y=63.56, z=-1388.37] died, message: 'Villager suffocated in a wall'
+[21:53:36] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[21:53:36] [Server thread/INFO]: unikittiezz left the game
+[21:53:36] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[21:53:36] [Server thread/INFO]: Id0nutcare left the game
