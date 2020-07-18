@@ -2669,7 +2669,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-07-17 07:11:46 -0500"
+      "tick": "2020-07-18 00:05:06 -0500"
     },
     "done": false
   },
@@ -2823,14 +2823,17 @@
       "minecraft:pillager": "2020-07-04 23:50:39 -0500",
       "minecraft:skeleton": "2020-06-23 22:50:40 -0500",
       "minecraft:elder_guardian": "2020-07-08 17:58:16 -0500",
+      "minecraft:ravager": "2020-07-17 21:47:15 -0500",
       "minecraft:ghast": "2020-06-24 16:55:43 -0500",
       "minecraft:hoglin": "2020-06-23 22:20:21 -0500",
       "minecraft:guardian": "2020-07-08 17:59:09 -0500",
+      "minecraft:vindicator": "2020-07-17 21:45:26 -0500",
       "minecraft:magma_cube": "2020-06-24 16:56:54 -0500",
       "minecraft:spider": "2020-06-23 22:06:51 -0500",
       "minecraft:creeper": "2020-06-24 16:40:27 -0500",
       "minecraft:wither": "2020-06-28 17:24:59 -0500",
       "minecraft:slime": "2020-06-23 20:33:40 -0500",
+      "minecraft:evoker": "2020-07-17 21:51:26 -0500",
       "minecraft:phantom": "2020-06-24 00:06:31 -0500",
       "minecraft:zombified_piglin": "2020-06-23 22:31:28 -0500",
       "minecraft:witch": "2020-06-23 21:42:24 -0500",
@@ -2842,6 +2845,7 @@
       "minecraft:enderman": "2020-06-23 22:12:33 -0500",
       "minecraft:silverfish": "2020-06-24 21:54:15 -0500",
       "minecraft:endermite": "2020-07-01 22:47:54 -0500",
+      "minecraft:vex": "2020-07-17 21:51:30 -0500",
       "minecraft:zombie": "2020-06-23 21:45:56 -0500",
       "minecraft:drowned": "2020-07-02 15:11:45 -0500",
       "minecraft:zombie_villager": "2020-06-24 15:26:33 -0500"
@@ -3274,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-07-17 21:56:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-06-23 21:53:35 -0500"
@@ -3512,6 +3522,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2020-07-05 00:42:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-07-17 23:49:20 -0500"
     },
     "done": true
   },
@@ -3754,6 +3770,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-06-24 14:46:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-07-17 21:57:32 -0500"
     },
     "done": true
   },

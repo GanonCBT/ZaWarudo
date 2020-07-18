@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-06-23 22:45:56 -0500"
@@ -272,6 +278,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-16 22:58:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
     },
     "done": true
   },
@@ -460,6 +472,12 @@
       "has_block": "2020-07-16 22:58:59 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -703,7 +721,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-07-14 00:33:58 -0500"
+      "tick": "2020-07-18 00:05:06 -0500"
     },
     "done": false
   },
@@ -812,6 +830,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-06-30 02:24:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
     },
     "done": true
   },
@@ -1244,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-07-17 23:45:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-07-01 23:04:55 -0500"
@@ -1301,6 +1331,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-07-03 22:34:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
     },
     "done": true
   },
@@ -1406,15 +1442,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2020-07-16 22:33:17 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-07-16 22:33:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2020-07-16 22:33:17 -0500"
     },
     "done": true
   },
@@ -1487,6 +1523,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-06-23 22:41:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-07-17 23:59:46 -0500"
     },
     "done": true
   },
@@ -2139,7 +2181,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-07-03 22:18:37 -0500",
       "minecraft:nether_wastes": "2020-07-12 13:20:16 -0500",
-      "minecraft:soul_sand_valley": "2020-07-12 13:20:26 -0500"
+      "minecraft:soul_sand_valley": "2020-07-12 13:20:26 -0500",
+      "minecraft:warped_forest": "2020-07-17 23:41:16 -0500"
     },
     "done": false
   },

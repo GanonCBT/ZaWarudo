@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2020-06-23 22:02:25 -0500"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-07-17 21:57:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-06-24 23:52:51 -0500"
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-07-17 22:02:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-06-23 21:36:48 -0500"
@@ -208,6 +226,12 @@
       "has_mossy_cobblestone": "2020-06-24 00:08:52 -0500"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
@@ -230,6 +254,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-06-24 21:25:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-07-17 21:42:56 -0500"
     },
     "done": true
   },
@@ -300,6 +330,12 @@
       "has_stick": "2020-06-23 20:57:19 -0500"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -421,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-07-17 21:56:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2020-06-23 23:58:17 -0500"
@@ -444,6 +486,12 @@
       "has_diorite": "2020-06-24 21:12:51 -0500"
     },
     "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-07-17 22:06:54 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
@@ -672,12 +720,15 @@
       "minecraft:pillager": "2020-07-10 23:51:07 -0500",
       "minecraft:skeleton": "2020-06-24 00:12:21 -0500",
       "minecraft:hoglin": "2020-07-05 20:21:21 -0500",
+      "minecraft:vindicator": "2020-07-17 21:42:52 -0500",
       "minecraft:spider": "2020-06-25 23:31:02 -0500",
       "minecraft:phantom": "2020-06-25 23:08:11 -0500",
+      "minecraft:witch": "2020-07-17 21:56:18 -0500",
       "minecraft:shulker": "2020-06-24 23:02:47 -0500",
       "minecraft:piglin": "2020-07-05 20:20:47 -0500",
       "minecraft:enderman": "2020-06-24 22:23:48 -0500",
       "minecraft:silverfish": "2020-06-24 21:54:04 -0500",
+      "minecraft:vex": "2020-07-17 21:52:57 -0500",
       "minecraft:zombie": "2020-06-24 00:06:26 -0500",
       "minecraft:zombie_villager": "2020-06-24 21:48:37 -0500"
     },
@@ -719,6 +770,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-06-23 22:00:32 -0500"
@@ -758,6 +815,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-06-23 21:58:13 -0500"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-07-17 21:40:38 -0500"
     },
     "done": true
   },
@@ -1151,6 +1214,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-06-23 21:36:48 -0500"
@@ -1217,6 +1286,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-06-23 21:36:48 -0500"
@@ -1238,6 +1313,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-06-24 21:12:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-07-17 22:00:19 -0500"
     },
     "done": true
   },
@@ -1411,6 +1492,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2020-07-17 22:02:40 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-06-23 20:32:06 -0500"
@@ -1578,6 +1665,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2020-06-24 00:08:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-07-17 22:02:40 -0500"
     },
     "done": true
   },
