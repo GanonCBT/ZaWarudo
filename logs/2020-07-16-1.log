@@ -1,0 +1,114 @@
+[00:37:35] [Server thread/INFO]: [tomisherio: Applied effect Strength to tomisherio]
+[00:43:59] [Server thread/INFO]: [tomisherio: Removed 12 items from player tomisherio]
+[00:54:30] [Server thread/INFO]: [tomisherio: Removed 670 items from player tomisherio]
+[00:55:07] [Server thread/INFO]: [tomisherio: Removed 7 items from player tomisherio]
+[00:55:30] [Server thread/INFO]: [tomisherio: Removed 2 items from player tomisherio]
+[00:55:36] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[00:55:36] [Server thread/INFO]: tomisherio left the game
+[00:56:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@10f7ca22[id=<null>,name=tomisherio,properties={},legacy=false] (/184.103.253.150:60498) lost connection: Disconnected
+[00:56:30] [User Authenticator #7/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[00:56:31] [Server thread/INFO]: tomisherio[/184.103.253.150:60501] logged in with entity id 53443 at (-346.5618666815408, 131.00063554902948, -346.47162849091694)
+[00:56:31] [Server thread/INFO]: tomisherio joined the game
+[00:56:44] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[01:16:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/71222, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-92.68]
+[02:43:21] [Server thread/INFO]: Villager class_1646['Villager'/2192, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.97, z=138.22] died, message: 'Villager was squished too much'
+[03:15:29] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[03:16:09] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[03:20:44] [Server thread/INFO]: Villager class_1646['Villager'/2191, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.61, z=138.17] died, message: 'Villager was squished too much'
+[03:31:33] [Server thread/INFO]: Villager class_1646['Villager'/2173, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.30, z=138.70] died, message: 'Villager was squished too much'
+[03:51:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/217300, l='ServerLevel[ZaWarudo]', x=-339.67, y=198.00, z=-94.09]
+[03:51:48] [Server thread/WARN]: Entity class_1542['Golden Sword'/217516, l='ServerLevel[ZaWarudo]', x=-340.58, y=190.00, z=-95.87] left loaded chunk area
+[03:51:48] [Server thread/WARN]: Entity class_1542['Gold Nugget'/217557, l='ServerLevel[ZaWarudo]', x=-340.46, y=190.00, z=-95.87] left loaded chunk area
+[03:51:48] [Server thread/WARN]: Entity class_1542['Gold Ingot'/217565, l='ServerLevel[ZaWarudo]', x=-340.51, y=190.00, z=-95.87] left loaded chunk area
+[04:02:07] [Server thread/WARN]: tomisherio moved wrongly!
+[04:21:29] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[04:22:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[04:39:51] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[04:40:28] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[04:40:40] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[04:41:26] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[04:45:29] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[04:46:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[04:55:39] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[04:55:52] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[05:32:24] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[05:33:20] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[05:36:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/252475, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.94]
+[07:36:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/396145, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-92.70]
+[10:16:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/586864, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-94.30]
+[10:35:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/609963, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-93.68]
+[17:41:00] [Server thread/INFO]: Villager class_1646['Villager'/2176, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.28, z=138.70] died, message: 'Villager was squished too much'
+[17:50:53] [Server thread/INFO]: Villager class_1646['Villager'/2184, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.29, z=138.70] died, message: 'Villager was squished too much'
+[17:54:24] [Server thread/INFO]: Villager class_1646['Villager'/2194, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.26, z=138.70] died, message: 'Villager was squished too much'
+[18:26:51] [Server thread/INFO]: Villager class_1646['Villager'/2198, l='ServerLevel[ZaWarudo]', x=-58.88, y=69.21, z=138.70] died, message: 'Villager was squished too much'
+[18:27:17] [Server thread/INFO]: Villager class_1646['Villager'/2200, l='ServerLevel[ZaWarudo]', x=-58.85, y=69.53, z=138.13] died, message: 'Villager was squished too much'
+[18:27:33] [Server thread/INFO]: Villager class_1646['Villager'/2202, l='ServerLevel[ZaWarudo]', x=-58.81, y=69.71, z=138.70] died, message: 'Villager was squished too much'
+[18:27:54] [Server thread/INFO]: Villager class_1646['Villager'/2187, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.30, z=138.70] died, message: 'Villager was squished too much'
+[18:40:09] [Server thread/INFO]: Villager class_1646['Villager'/2197, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.46, z=138.70] died, message: 'Villager was squished too much'
+[19:00:35] [Server thread/INFO]: Villager class_1646['Villager'/2070, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.50] died, message: 'Villager was slain by Zombie'
+[19:11:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-106, y=70, z=144} class_2338{x=-105, y=70, z=144}
+[19:11:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/1015632, l='ServerLevel[ZaWarudo]', x=-38.35, y=72.02, z=55.13]
+[19:14:55] [Server thread/INFO]: Villager class_1646['Villager'/2181, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.28, z=138.70] died, message: 'Villager was squished too much'
+[19:26:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-110, y=65, z=133} class_2338{x=-110, y=64, z=134}
+[19:29:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-119, y=64, z=136} class_2338{x=-117, y=66, z=145}
+[19:29:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Poppy'/1021927, l='ServerLevel[ZaWarudo]', x=-38.13, y=72.05, z=55.13]
+[19:30:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1022065, l='ServerLevel[ZaWarudo]', x=-89.54, y=72.26, z=121.67]
+[19:34:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-109, y=63, z=125} class_2338{x=-108, y=63, z=123}
+[19:41:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1024701, l='ServerLevel[ZaWarudo]', x=-67.72, y=72.00, z=58.70]
+[19:49:05] [Server thread/INFO]: Villager class_1646['Villager'/995061, l='ServerLevel[ZaWarudo]', x=-58.80, y=69.48, z=138.12] died, message: 'Villager was squished too much'
+[19:51:40] [Server thread/INFO]: Villager class_1646['Villager'/990738, l='ServerLevel[ZaWarudo]', x=-58.77, y=70.05, z=138.70] died, message: 'Villager was squished too much'
+[19:52:52] [Server thread/INFO]: Villager class_1646['Villager'/2199, l='ServerLevel[ZaWarudo]', x=-58.84, y=69.47, z=138.16] died, message: 'Villager was squished too much'
+[20:04:28] [Server thread/INFO]: Villager class_1646['Villager'/200852, l='ServerLevel[ZaWarudo]', x=-58.66, y=69.49, z=138.15] died, message: 'Villager was squished too much'
+[20:09:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1033900, l='ServerLevel[ZaWarudo]', x=-34.52, y=6.00, z=32.99]
+[20:17:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1040205, l='ServerLevel[ZaWarudo]', x=-32.30, y=6.00, z=13.26]
+[20:19:05] [Server thread/INFO]: Villager class_1646['Villager'/172527, l='ServerLevel[ZaWarudo]', x=-58.88, y=69.53, z=138.31] died, message: 'Villager was squished too much'
+[20:22:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Redstone Dust'/1043171, l='ServerLevel[ZaWarudo]', x=-139.25, y=56.69, z=23.61]
+[20:23:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1044257, l='ServerLevel[ZaWarudo]', x=-33.25, y=6.00, z=33.82]
+[20:35:01] [Server thread/INFO]: Villager class_1646['Villager'/998130, l='ServerLevel[ZaWarudo]', x=-58.84, y=69.82, z=138.70] died, message: 'Villager was squished too much'
+[20:36:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1047807, l='ServerLevel[ZaWarudo]', x=-67.27, y=72.00, z=60.22]
+[20:43:49] [Server thread/INFO]: Villager class_1646['Villager'/1010358, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.49, z=138.12] died, message: 'Villager was squished too much'
+[20:49:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1050594, l='ServerLevel[ZaWarudo]', x=-92.76, y=72.26, z=135.39]
+[21:20:46] [Server thread/WARN]: tomisherio moved wrongly!
+[21:40:07] [Server thread/WARN]: tomisherio moved wrongly!
+[21:49:44] [Server thread/INFO]: Villager class_1646['Villager'/202821, l='ServerLevel[ZaWarudo]', x=-58.89, y=69.75, z=138.70] died, message: 'Villager was squished too much'
+[22:07:29] [Server thread/INFO]: Villager class_1646['Villager'/1011725, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.47, z=138.12] died, message: 'Villager was squished too much'
+[22:19:49] [User Authenticator #8/INFO]: UUID of player Ya_Im_Andrew is d1c65397-e915-4a84-84c5-fe3fa7937777
+[22:19:49] [Server thread/INFO]: Ya_Im_Andrew[/72.210.35.251:54338] logged in with entity id 1095138 at (-345.845046150055, 186.7151994392986, -88.85532919704255)
+[22:19:49] [Server thread/INFO]: Ya_Im_Andrew joined the game
+[22:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:20:17] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Ya_Im_Andrew to tomisherio]
+[22:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
+[22:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8210ms or 164 ticks behind
+[22:21:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5653ms or 113 ticks behind
+[22:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3897ms or 77 ticks behind
+[22:21:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9956ms or 199 ticks behind
+[22:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
+[22:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4182ms or 83 ticks behind
+[22:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[22:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4369ms or 87 ticks behind
+[22:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
+[22:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6439ms or 128 ticks behind
+[22:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6216ms or 124 ticks behind
+[22:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11859ms or 237 ticks behind
+[22:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[22:26:00] [Server thread/INFO]: Ya_Im_Andrew has made the advancement [Suit Up]
+[22:40:28] [User Authenticator #9/INFO]: UUID of player Astro_Doughnaut is a9f76e33-45b1-4b65-a46d-f30ef6dd28b8
+[22:40:28] [Server thread/INFO]: Astro_Doughnaut[/98.179.104.242:62465] logged in with entity id 1125580 at (31182.30775955801, 73.0, 29618.77102356329)
+[22:40:28] [Server thread/INFO]: Astro_Doughnaut joined the game
+[22:40:45] [Server thread/INFO]: Astro_Doughnaut has made the advancement [We Need to Go Deeper]
+[22:40:45] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Astro_Doughnaut to Ya_Im_Andrew]
+[22:42:34] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Ya_Im_Andrew to -343.5, 199.0, -94.5]
+[22:42:43] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Astro_Doughnaut to Ya_Im_Andrew]
+[22:44:46] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Ya_Im_Andrew to tomisherio]
+[22:45:16] [Server thread/INFO]: Astro_Doughnaut has made the advancement [Suit Up]
+[22:46:33] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Ya_Im_Andrew to 0.5, 128.0, 0.5]
+[22:46:39] [Server thread/INFO]: [Ya_Im_Andrew: Teleported Astro_Doughnaut to Ya_Im_Andrew]
+[22:54:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Glowstone Dust'/1141130, l='ServerLevel[ZaWarudo]', x=-139.05, y=57.00, z=23.70]
+[22:58:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/1144232, l='ServerLevel[ZaWarudo]', x=-38.80, y=72.02, z=55.13]
+[22:59:10] [Server thread/INFO]: Villager class_1646['Villager'/26561, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.28, z=138.70] died, message: 'Villager was squished too much'
+[23:02:03] [Server thread/INFO]: Astro_Doughnaut lost connection: Disconnected
+[23:02:03] [Server thread/INFO]: Astro_Doughnaut left the game
+[23:02:10] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[23:02:10] [Server thread/INFO]: tomisherio left the game
+[23:02:16] [Server thread/INFO]: Ya_Im_Andrew lost connection: Disconnected
+[23:02:16] [Server thread/INFO]: Ya_Im_Andrew left the game

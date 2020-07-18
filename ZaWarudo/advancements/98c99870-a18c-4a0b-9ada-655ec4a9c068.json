@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-07-14 00:54:20 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-06-24 22:09:20 -0500"
@@ -1286,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-07-14 01:21:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-06-23 21:23:13 -0500"
@@ -2133,6 +2145,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-06-25 21:45:54 -0500"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-07-14 00:40:39 -0500"
     },
     "done": true
   },

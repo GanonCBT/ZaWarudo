@@ -1,7 +1,7 @@
 {
-  "minecraft:recipes/building_blocks/light_blue_wool": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
+      "has_iron_boots": "2020-07-16 22:45:16 -0500"
     },
     "done": true
   },
@@ -17,31 +17,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2020-06-24 00:32:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2020-06-24 00:52:08 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-06-24 00:31:45 -0500"
     },
@@ -53,35 +29,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
-  "main:main/root": {
-    "criteria": {
-      "tick": "2020-06-24 00:20:44 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-06-24 00:31:45 -0500"
     },
     "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-07-16 22:40:28 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
@@ -89,9 +47,9 @@
     },
     "done": true
   },
-  "main:main/double_shulkers": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "tick": "2020-06-24 00:20:44 -0500"
+      "iron_boots": "2020-07-16 22:45:16 -0500"
     },
     "done": true
   },
@@ -107,21 +65,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_logs": "2020-06-24 00:40:43 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+      "entered_nether": "2020-07-16 22:40:45 -0500"
     },
     "done": true
   },
@@ -137,17 +83,14 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-06-24 00:22:52 -0500",
       "minecraft:forest": "2020-06-24 01:16:18 -0500",
+      "minecraft:badlands_plateau": "2020-07-16 22:56:35 -0500",
+      "minecraft:desert": "2020-07-16 22:50:09 -0500",
       "minecraft:birch_forest": "2020-06-24 00:25:56 -0500",
+      "minecraft:badlands": "2020-07-16 22:50:42 -0500",
       "minecraft:beach": "2020-06-24 00:21:16 -0500",
       "minecraft:river": "2020-06-24 00:21:25 -0500",
       "minecraft:swamp": "2020-06-24 00:21:11 -0500",
@@ -167,27 +110,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2020-06-24 00:32:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-06-24 00:52:08 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-07-16 22:45:16 -0500"
+    },
+    "done": true
+  },
   "main:main/anti_enderman": {
     "criteria": {
       "tick": "2020-06-24 00:20:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-06-24 00:31:45 -0500"
     },
     "done": true
   },
@@ -203,55 +146,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2020-06-24 00:32:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-06-24 00:52:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2020-06-24 00:52:08 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-24 00:31:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-06-24 00:31:45 -0500"
     },
@@ -281,6 +182,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_block": "2020-07-16 22:40:28 -0500"
+    },
+    "done": false
+  },
   "main:main/anti_ghast": {
     "criteria": {
       "tick": "2020-06-24 00:20:44 -0500"
@@ -293,5 +200,168 @@
     },
     "done": true
   },
-  "DataVersion": 2566
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_block": "2020-07-16 22:40:28 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2020-06-24 00:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-06-24 00:52:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-06-24 00:20:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-07-16 22:40:45 -0500"
+    },
+    "done": true
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-06-24 00:20:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-06-24 00:40:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-07-16 22:40:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2020-07-16 22:45:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-07-16 22:46:40 -0500",
+      "minecraft:nether_wastes": "2020-07-16 22:40:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-06-24 00:32:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2020-06-24 00:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-06-24 00:52:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-24 00:31:45 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2567
 }
