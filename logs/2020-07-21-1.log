@@ -1,0 +1,117 @@
+[00:00:53] [Server thread/INFO]: GanonCann0n lost connection: Disconnected
+[00:00:53] [Server thread/INFO]: GanonCann0n left the game
+[00:02:38] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3235849776699524
+[00:03:09] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.27388042286470693
+[00:04:54] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[00:04:54] [Server thread/INFO]: unikittiezz left the game
+[00:17:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/1809595, l='ServerLevel[ZaWarudo]', x=-38.13, y=72.03, z=55.13]
+[00:17:19] [Server thread/INFO]: Villager class_1646['Villager'/647, l='ServerLevel[ZaWarudo]', x=-58.75, y=69.82, z=138.70] died, message: 'Villager was squished too much'
+[00:51:06] [Server thread/INFO]: tomisherio was slain by Zombie
+[00:57:32] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 186.5, 66.0, 11.5]
+[01:17:55] [Server thread/INFO]: Villager class_1646['Villager'/648, l='ServerLevel[ZaWarudo]', x=-58.71, y=69.52, z=138.11] died, message: 'Villager was squished too much'
+[02:18:59] [Server thread/INFO]: Villager class_1646['Villager'/1730758, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.97, z=138.70] died, message: 'Villager was squished too much'
+[02:56:27] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[02:57:01] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[03:00:01] [Server thread/INFO]: Villager class_1646['Villager'/1578241, l='ServerLevel[ZaWarudo]', x=-58.79, y=69.52, z=138.23] died, message: 'Villager was squished too much'
+[03:28:46] [Server thread/WARN]: tomisherio moved wrongly!
+[03:36:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1861631, l='ServerLevel[ZaWarudo]', x=-38.36, y=72.05, z=55.13]
+[03:36:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Poppy'/1861636, l='ServerLevel[ZaWarudo]', x=-38.13, y=72.03, z=55.13]
+[03:53:00] [Server thread/INFO]: Villager class_1646['Villager'/1501342, l='ServerLevel[ZaWarudo]', x=-58.88, y=69.51, z=138.11] died, message: 'Villager was squished too much'
+[03:56:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-169, y=70, z=125} class_2338{x=-171, y=69, z=123}
+[04:04:45] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[04:05:18] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[04:22:37] [Server thread/INFO]: Villager class_1646['Villager'/1549874, l='ServerLevel[ZaWarudo]', x=-58.76, y=69.49, z=138.20] died, message: 'Villager was squished too much'
+[05:57:53] [Server thread/INFO]: Villager class_1646['Villager'/1561032, l='ServerLevel[ZaWarudo]', x=-58.73, y=69.48, z=138.26] died, message: 'Villager was squished too much'
+[05:58:48] [Server thread/INFO]: Villager class_1646['Villager'/1872049, l='ServerLevel[ZaWarudo]', x=-58.85, y=69.49, z=138.12] died, message: 'Villager was squished too much'
+[06:26:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1919395, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.56]
+[06:29:36] [Server thread/WARN]: tomisherio moved too quickly! 1013.4344807215624,13.580000013113022,-1747.996721290426
+[06:29:36] [Server thread/WARN]: Entity class_3222['tomisherio'/1790309, l='ServerLevel[ZaWarudo]', x=100.00, y=49.00, z=0.00] left loaded chunk area
+[06:33:11] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[06:33:15] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[06:37:50] [Server thread/WARN]: tomisherio moved too quickly! 1014.2469204418344,13.580000013113022,-1747.5379033050503
+[06:37:50] [Server thread/WARN]: Entity class_3222['tomisherio'/1790309, l='ServerLevel[ZaWarudo]', x=100.00, y=49.00, z=0.00] left loaded chunk area
+[06:42:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1928123, l='ServerLevel[ZaWarudo]', x=-34.74, y=6.00, z=20.39]
+[06:43:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/1928233, l='ServerLevel[ZaWarudo]', x=-34.94, y=6.01, z=13.06]
+[06:46:59] [Server thread/INFO]: Villager class_1646['Villager'/1593602, l='ServerLevel[ZaWarudo]', x=-58.89, y=69.97, z=138.68] died, message: 'Villager was squished too much'
+[06:52:25] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[06:52:25] [Server thread/INFO]: tomisherio left the game
+[18:09:38] [User Authenticator #13/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[18:09:38] [Server thread/INFO]: unikittiezz[/192.168.1.1:50255] logged in with entity id 1932227 at (-750.7057915444045, 72.0, 67.99299645589102)
+[18:09:38] [Server thread/INFO]: unikittiezz joined the game
+[18:12:51] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.26711060143348675
+[18:20:05] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3210532948261289
+[18:20:08] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2675608258729909
+[18:30:37] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[18:30:37] [Server thread/INFO]: unikittiezz left the game
+[18:31:32] [User Authenticator #14/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[18:31:32] [Server thread/INFO]: unikittiezz[/192.168.1.1:57482] logged in with entity id 1936458 at (-766.6246163677287, 71.0, 77.02533527561248)
+[18:31:32] [Server thread/INFO]: unikittiezz joined the game
+[18:31:39] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[18:31:39] [Server thread/INFO]: unikittiezz left the game
+[18:51:07] [User Authenticator #15/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[18:51:07] [Server thread/INFO]: tomisherio[/184.103.253.150:50518] logged in with entity id 1936720 at (0.5358910251435551, 65.0, -135.77078058671296)
+[18:51:07] [Server thread/INFO]: tomisherio joined the game
+[18:56:50] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[18:56:50] [Server thread/INFO]: tomisherio left the game
+[18:59:23] [User Authenticator #16/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[18:59:23] [Server thread/INFO]: unikittiezz[/192.168.1.1:57493] logged in with entity id 1938112 at (-774.0034099055126, 71.0, 70.65593862482521)
+[18:59:23] [Server thread/INFO]: unikittiezz joined the game
+[19:04:12] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[19:04:12] [Server thread/INFO]: unikittiezz left the game
+[19:04:45] [User Authenticator #17/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[19:04:46] [Server thread/INFO]: unikittiezz[/192.168.1.1:56655] logged in with entity id 1939080 at (-676.4009413582246, 65.0, 118.4136365464269)
+[19:04:46] [Server thread/INFO]: unikittiezz joined the game
+[19:06:01] [User Authenticator #18/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:06:01] [Server thread/INFO]: tomisherio[/184.103.253.150:50688] logged in with entity id 1939446 at (1072.6705866769198, 69.0, 550.3954734940877)
+[19:06:01] [Server thread/INFO]: tomisherio joined the game
+[19:06:06] [Server thread/INFO]: <tomisherio> o/
+[19:06:08] [Server thread/INFO]: <unikittiezz> hello :)
+[19:13:31] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[19:13:31] [Server thread/INFO]: unikittiezz left the game
+[19:36:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1089, y=72, z=540} class_2338{x=1091, y=69, z=542}
+[19:59:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1073, y=68, z=563} class_2338{x=1072, y=70, z=563}
+[19:59:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1073, y=68, z=563} class_2338{x=1072, y=70, z=563}
+[19:59:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1073, y=68, z=563} class_2338{x=1072, y=70, z=563}
+[19:59:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1073, y=68, z=563} class_2338{x=1072, y=70, z=563}
+[21:23:51] [User Authenticator #19/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[21:23:51] [Server thread/INFO]: unikittiezz[/192.168.1.1:56747] logged in with entity id 1956743 at (-640.5642438331952, 64.0, 191.09666161803165)
+[21:23:51] [Server thread/INFO]: unikittiezz joined the game
+[21:29:54] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[21:29:54] [Server thread/INFO]: tomisherio left the game
+[21:39:16] [User Authenticator #20/INFO]: UUID of player GanonCann0n is ce34b950-cf6f-4093-8021-f361d57ec21e
+[21:39:16] [Server thread/INFO]: GanonCann0n[/192.168.1.1:63351] logged in with entity id 1959947 at (-235.4496497205794, 102.0, 168.0451366181333)
+[21:39:16] [Server thread/INFO]: GanonCann0n joined the game
+[21:51:03] [Server thread/INFO]: unikittiezz has made the advancement [Take Aim]
+[22:02:50] [User Authenticator #21/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[22:02:50] [Server thread/INFO]: tomisherio[/184.103.253.150:51276] logged in with entity id 1966717 at (1077.149909394882, 70.0, 551.7833334932801)
+[22:02:50] [Server thread/INFO]: tomisherio joined the game
+[22:05:05] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[22:05:05] [Server thread/INFO]: tomisherio left the game
+[22:16:50] [Server thread/INFO]: unikittiezz has made the advancement [Ice Bucket Challenge]
+[22:42:51] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.45354870661691393
+[22:44:36] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2831413211955578
+[22:46:02] [Server thread/INFO]: GanonCann0n lost connection: Disconnected
+[22:46:02] [Server thread/INFO]: GanonCann0n left the game
+[22:47:11] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4993834137393378
+[22:47:14] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5040417817820071
+[22:49:57] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.41345630933574284
+[22:50:13] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4518320099550692
+[22:50:14] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.35598171106460086
+[22:50:14] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3898995584578415
+[22:50:14] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3856695852678058
+[22:53:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3694960271927812
+[22:53:29] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2533859468637729
+[23:00:08] [Server thread/INFO]: unikittiezz was slain by Zombie
+[23:18:14] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.25916338541667017
+[23:21:07] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[23:21:07] [Server thread/INFO]: unikittiezz left the game
+[23:22:13] [User Authenticator #22/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[23:22:13] [Server thread/INFO]: tomisherio[/184.103.253.150:51557] logged in with entity id 1985950 at (1068.4594505830223, 68.0, 539.1096230778628)
+[23:22:13] [Server thread/INFO]: tomisherio joined the game
+[23:22:49] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[23:22:49] [Server thread/INFO]: tomisherio left the game
+[23:38:04] [User Authenticator #23/INFO]: UUID of player GanonCann0n is ce34b950-cf6f-4093-8021-f361d57ec21e
+[23:38:04] [Server thread/INFO]: GanonCann0n[/192.168.1.1:64288] logged in with entity id 1986203 at (-235.5, 102.0000002, 166.5)
+[23:38:04] [Server thread/INFO]: GanonCann0n joined the game
+[23:52:15] [Server thread/INFO]: GanonCann0n lost connection: Disconnected
+[23:52:15] [Server thread/INFO]: GanonCann0n left the game

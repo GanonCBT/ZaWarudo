@@ -1,0 +1,36 @@
+[00:05:11] [Server thread/INFO]: [tomisherio: Removed 15 items from player tomisherio]
+[00:05:16] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[00:06:36] [Server thread/INFO]: [tomisherio: Gave 1 [Cactus] to tomisherio]
+[00:06:41] [Server thread/INFO]: [tomisherio: Gave 1 [Hay Bale] to tomisherio]
+[00:15:22] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[00:15:22] [Server thread/INFO]: tomisherio left the game
+[00:24:37] [User Authenticator #35/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[00:24:37] [Server thread/INFO]: tomisherio[/184.103.253.150:57457] logged in with entity id 2038419 at (1112.3416053247604, 80.24050220073383, 594.1801688658852)
+[00:24:37] [Server thread/INFO]: tomisherio joined the game
+[00:24:58] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[00:24:58] [Server thread/INFO]: tomisherio left the game
+[00:31:03] [User Authenticator #36/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[00:31:03] [Server thread/INFO]: tomisherio[/184.103.253.150:57480] logged in with entity id 2038840 at (1136.8394803876834, 142.63224435194275, 497.24711100940704)
+[00:31:03] [Server thread/INFO]: tomisherio joined the game
+[00:34:28] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[00:34:28] [Server thread/INFO]: tomisherio left the game
+[21:46:26] [User Authenticator #37/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[21:46:26] [Server thread/INFO]: unikittiezz[/192.168.1.1:57834] logged in with entity id 2040270 at (-752.540858878613, 72.0, 68.15494401824083)
+[21:46:26] [Server thread/INFO]: unikittiezz joined the game
+[21:56:08] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.39087575617941184
+[21:56:12] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.27215989058692003
+[22:05:54] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3622751707847556
+[22:05:55] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.44951927307647566
+[22:08:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.35723931576243934
+[22:08:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.31541681526323373
+[22:08:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4544580251304069
+[22:08:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5
+[22:32:16] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[22:32:16] [Server thread/INFO]: unikittiezz left the game
+[22:34:29] [User Authenticator #38/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[22:34:29] [Server thread/INFO]: unikittiezz[/192.168.1.1:57859] logged in with entity id 2046608 at (-703.5, 74.0000002, 62.5)
+[22:34:29] [Server thread/INFO]: unikittiezz joined the game
+[22:58:20] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.459459377785123
+[22:58:21] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.49063060714401274
+[23:26:06] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[23:26:06] [Server thread/INFO]: unikittiezz left the game

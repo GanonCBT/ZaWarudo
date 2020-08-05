@@ -1,0 +1,166 @@
+[15:50:49] [User Authenticator #53/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[15:50:49] [Server thread/INFO]: tomisherio[/184.103.253.150:51830] logged in with entity id 2091925 at (1062.8701038408044, 69.0, 551.5560948932132)
+[15:50:49] [Server thread/INFO]: tomisherio joined the game
+[15:58:46] [Server thread/INFO]: Villager class_1646['Villager'/1752175, l='ServerLevel[ZaWarudo]', x=-58.73, y=69.82, z=138.70] died, message: 'Villager was squished too much'
+[16:06:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1000, y=68, z=575} class_2338{x=1000, y=68, z=574}
+[16:06:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=996, y=68, z=576} class_2338{x=996, y=68, z=577}
+[16:35:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2109985, l='ServerLevel[ZaWarudo]', x=-32.43, y=6.00, z=34.14]
+[16:47:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2116241, l='ServerLevel[ZaWarudo]', x=-67.58, y=72.00, z=80.70]
+[16:49:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2117764, l='ServerLevel[ZaWarudo]', x=-67.61, y=72.00, z=81.83]
+[16:57:27] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[16:57:27] [Server thread/INFO]: tomisherio left the game
+[16:57:55] [User Authenticator #54/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[16:57:56] [Server thread/INFO]: tomisherio[/184.103.253.150:52085] logged in with entity id 2121869 at (1005.603934132434, 68.0, 518.0867294568561)
+[16:57:56] [Server thread/INFO]: tomisherio joined the game
+[17:12:48] [Server thread/WARN]: tomisherio moved wrongly!
+[17:16:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=28, y=50, z=464} class_2338{x=27, y=50, z=463}
+[17:16:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=28, y=50, z=464} class_2338{x=27, y=50, z=463}
+[17:17:04] [Server thread/WARN]: tomisherio moved too quickly! 1014.5101228318052,11.145106700651638,-1748.3277671140656
+[17:26:01] [Server thread/INFO]: [tomisherio: Gave 16 [Basalt] to tomisherio]
+[17:26:15] [Server thread/INFO]: [tomisherio: Gave 2 [Basalt] to tomisherio]
+[17:35:09] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[17:35:42] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[17:35:51] [Server thread/INFO]: [tomisherio: Gave 1 [Brewing Stand] to tomisherio]
+[17:37:54] [Server thread/INFO]: [tomisherio: Gave 1 [Blaze Powder] to tomisherio]
+[17:46:19] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[17:46:25] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[17:47:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1028, y=67, z=514} class_2338{x=1028, y=76, z=509}
+[17:49:04] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[17:49:04] [Server thread/INFO]: tomisherio left the game
+[17:51:48] [User Authenticator #55/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:51:48] [Server thread/INFO]: tomisherio[/184.103.253.150:52271] logged in with entity id 2133226 at (1027.5526127716373, 77.0, 510.45667526767966)
+[17:51:48] [Server thread/INFO]: tomisherio joined the game
+[17:52:54] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[17:52:54] [Server thread/INFO]: tomisherio left the game
+[17:55:55] [User Authenticator #56/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:55:55] [Server thread/INFO]: tomisherio[/184.103.253.150:52297] logged in with entity id 2133568 at (1028.0242738117502, 77.0, 513.6533320991811)
+[17:55:55] [Server thread/INFO]: tomisherio joined the game
+[18:23:02] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[18:40:27] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[18:40:27] [Server thread/INFO]: tomisherio left the game
+[18:45:32] [User Authenticator #57/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[18:45:32] [Server thread/INFO]: tomisherio[/184.103.253.150:52484] logged in with entity id 2143788 at (1023.9099363737937, 84.60149163940329, 505.8489499625383)
+[18:45:32] [Server thread/INFO]: tomisherio joined the game
+[18:49:49] [Server thread/INFO]: [tomisherio: Removed 10 items from player tomisherio]
+[18:50:37] [Server thread/INFO]: [tomisherio: Removed 2 items from player tomisherio]
+[18:50:56] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[18:52:17] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[18:53:00] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:27:08] [Server thread/INFO]: [tomisherio: Gave 64 [Sea Pickle] to tomisherio]
+[19:34:28] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:34:28] [Server thread/INFO]: tomisherio left the game
+[19:34:52] [User Authenticator #58/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:34:52] [Server thread/INFO]: tomisherio[/184.103.253.150:52623] logged in with entity id 2151984 at (1027.4888442681333, 68.0, 525.1230523992471)
+[19:34:52] [Server thread/INFO]: tomisherio joined the game
+[19:36:23] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:36:41] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:36:52] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:38:46] [Server thread/INFO]: [tomisherio: Removed 4 items from player tomisherio]
+[19:38:51] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:38:53] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:39:03] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:42:55] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:43:59] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:44:30] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:44:35] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:44:54] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:45:27] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:45:36] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:46:34] [Server thread/INFO]: [tomisherio: Removed 3 items from player tomisherio]
+[19:46:35] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:46:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:47:25] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:48:42] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:48:44] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:49:45] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:49:45] [Server thread/INFO]: tomisherio left the game
+[19:51:51] [User Authenticator #59/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:51:51] [Server thread/INFO]: tomisherio[/184.103.253.150:52691] logged in with entity id 2153967 at (1019.7559299612305, 67.16997945860125, 509.6354264190078)
+[19:51:51] [Server thread/INFO]: tomisherio joined the game
+[19:52:02] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:52:02] [Server thread/INFO]: tomisherio left the game
+[19:52:51] [User Authenticator #60/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:52:51] [Server thread/INFO]: tomisherio[/184.103.253.150:52708] logged in with entity id 2154213 at (1021.7965348946193, 86.66431152923641, 495.77495546756836)
+[19:52:51] [Server thread/INFO]: tomisherio joined the game
+[19:53:48] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:53:55] [Server thread/WARN]: tomisherio moved wrongly!
+[19:55:00] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:55:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:56:31] [Server thread/WARN]: tomisherio moved wrongly!
+[20:00:05] [Server thread/WARN]: tomisherio moved wrongly!
+[20:17:23] [User Authenticator #61/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[20:17:23] [Server thread/INFO]: unikittiezz[/192.168.1.1:49754] logged in with entity id 2160372 at (-704.6747046686653, 73.0, 77.43609319039635)
+[20:17:23] [Server thread/INFO]: unikittiezz joined the game
+[20:19:12] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[20:19:12] [Server thread/INFO]: unikittiezz left the game
+[23:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[23:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5768ms or 115 ticks behind
+[23:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[23:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9560ms or 191 ticks behind
+[23:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13614ms or 272 ticks behind
+[23:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13478ms or 269 ticks behind
+[23:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14950ms or 299 ticks behind
+[23:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16642ms or 332 ticks behind
+[23:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16944ms or 338 ticks behind
+[23:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16707ms or 334 ticks behind
+[23:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17778ms or 355 ticks behind
+[23:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16417ms or 328 ticks behind
+[23:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13261ms or 265 ticks behind
+[23:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13459ms or 269 ticks behind
+[23:25:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15133ms or 302 ticks behind
+[23:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15474ms or 309 ticks behind
+[23:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16405ms or 328 ticks behind
+[23:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15889ms or 317 ticks behind
+[23:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17644ms or 352 ticks behind
+[23:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17810ms or 356 ticks behind
+[23:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17239ms or 344 ticks behind
+[23:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17774ms or 355 ticks behind
+[23:29:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15464ms or 309 ticks behind
+[23:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17954ms or 359 ticks behind
+[23:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17999ms or 359 ticks behind
+[23:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18467ms or 369 ticks behind
+[23:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18548ms or 370 ticks behind
+[23:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16350ms or 327 ticks behind
+[23:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17868ms or 357 ticks behind
+[23:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18972ms or 379 ticks behind
+[23:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23339ms or 466 ticks behind
+[23:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19685ms or 393 ticks behind
+[23:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18151ms or 363 ticks behind
+[23:36:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20591ms or 411 ticks behind
+[23:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17795ms or 355 ticks behind
+[23:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15781ms or 315 ticks behind
+[23:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20175ms or 403 ticks behind
+[23:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19311ms or 386 ticks behind
+[23:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20515ms or 410 ticks behind
+[23:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18044ms or 360 ticks behind
+[23:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16271ms or 325 ticks behind
+[23:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23481ms or 469 ticks behind
+[23:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19610ms or 392 ticks behind
+[23:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20986ms or 419 ticks behind
+[23:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22084ms or 441 ticks behind
+[23:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23105ms or 462 ticks behind
+[23:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18394ms or 367 ticks behind
+[23:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15995ms or 319 ticks behind
+[23:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15690ms or 313 ticks behind
+[23:45:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16984ms or 339 ticks behind
+[23:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18370ms or 367 ticks behind
+[23:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19217ms or 384 ticks behind
+[23:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17680ms or 353 ticks behind
+[23:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21840ms or 436 ticks behind
+[23:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21255ms or 425 ticks behind
+[23:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16559ms or 331 ticks behind
+[23:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18112ms or 362 ticks behind
+[23:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16806ms or 336 ticks behind
+[23:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16169ms or 323 ticks behind
+[23:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16982ms or 339 ticks behind
+[23:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16433ms or 328 ticks behind
+[23:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16096ms or 321 ticks behind
+[23:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20721ms or 414 ticks behind
+[23:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18969ms or 379 ticks behind
+[23:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17738ms or 354 ticks behind
+[23:54:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18081ms or 361 ticks behind
+[23:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19111ms or 382 ticks behind
+[23:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16637ms or 332 ticks behind
+[23:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16452ms or 329 ticks behind

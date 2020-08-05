@@ -1,0 +1,166 @@
+[12:34:42] [User Authenticator #39/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[12:34:42] [Server thread/INFO]: Id0nutcare[/192.168.1.1:49733] logged in with entity id 2053574 at (-712.2805441633835, 73.0, 81.27069085044592)
+[12:34:42] [Server thread/INFO]: Id0nutcare joined the game
+[12:35:19] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[12:35:19] [Server thread/INFO]: Id0nutcare left the game
+[12:35:28] [User Authenticator #40/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[12:35:28] [Server thread/INFO]: Id0nutcare[/192.168.1.1:49748] logged in with entity id 2053897 at (-712.3635953442471, 73.0, 72.6457665496687)
+[12:35:28] [Server thread/INFO]: Id0nutcare joined the game
+[12:35:39] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[12:35:39] [Server thread/INFO]: Id0nutcare left the game
+[12:35:56] [User Authenticator #41/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[12:35:56] [Server thread/INFO]: unikittiezz[/192.168.1.1:49692] logged in with entity id 2054140 at (-693.2391364458566, 69.0, 189.86587819194173)
+[12:35:56] [Server thread/INFO]: unikittiezz joined the game
+[12:36:31] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[12:36:31] [Server thread/INFO]: unikittiezz left the game
+[12:43:41] [User Authenticator #42/INFO]: UUID of player MurderousLynx is ba604261-1207-42d1-afba-cae9da9962b7
+[12:43:41] [Server thread/INFO]: MurderousLynx[/192.168.1.1:58068] logged in with entity id 2054472 at (-10.699999988079101, 65.0, 48.69999998807907)
+[12:43:41] [Server thread/INFO]: MurderousLynx joined the game
+[12:44:12] [User Authenticator #43/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[12:44:12] [Server thread/INFO]: Id0nutcare[/192.168.1.1:49939] logged in with entity id 2054808 at (-712.3635953442471, 73.0, 72.6457665496687)
+[12:44:12] [Server thread/INFO]: Id0nutcare joined the game
+[12:46:23] [Server thread/INFO]: MurderousLynx discovered the floor was lava
+[12:52:17] [User Authenticator #44/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[12:52:17] [Server thread/INFO]: unikittiezz[/192.168.1.1:49830] logged in with entity id 2057872 at (-692.964415253917, 68.0, 181.91791485415007)
+[12:52:17] [Server thread/INFO]: unikittiezz joined the game
+[12:52:47] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6297891023701823
+[12:52:50] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6174321717976454
+[12:53:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.2785704597503127
+[12:54:31] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.45800056424729974
+[12:54:36] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.299414382547468
+[12:58:56] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5183572940272256
+[12:59:13] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4849090245895695
+[13:03:32] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.336054645361628
+[13:03:49] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4170310514771245
+[13:03:52] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.48691365376308227
+[13:03:52] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2767508865738364
+[13:05:34] [Server thread/INFO]: MurderousLynx has made the advancement [Best Friends Forever]
+[13:07:37] [Server thread/INFO]: MurderousLynx has made the advancement [The Parrots and the Bats]
+[13:08:58] [Server thread/INFO]: MurderousLynx has made the advancement [Sweet Dreams]
+[13:10:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Wheat'/2063060, l='ServerLevel[ZaWarudo]', x=-684.21, y=64.30, z=169.72]
+[13:10:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Wheat Seeds'/2063061, l='ServerLevel[ZaWarudo]', x=-685.08, y=64.04, z=169.71]
+[13:20:09] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2584667943011709
+[13:20:39] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.375
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.27064421640287273
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5335718630033781
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5589846404072887
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5568196993639276
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5533865600798435
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5563931577979702
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5645391196596847
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5831302090614372
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6051952051307126
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6174916318864234
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6224133140995868
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6264181678498832
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6295342642434842
+[13:20:40] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6313987523498964
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.632413600205047
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6329517899620777
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6332408807758894
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6333982283682751
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.633483183119338
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6335288585507699
+[13:20:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.33898866100779307
+[13:20:42] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5889761185051157
+[13:20:44] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3278879535350825
+[13:20:45] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.42520076832792597
+[13:21:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.25800535273879177
+[13:21:02] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.42132906930353897
+[13:21:03] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.34666413185449585
+[13:26:41] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2707829947294158
+[13:29:09] [Server thread/INFO]: MurderousLynx lost connection: Disconnected
+[13:29:09] [Server thread/INFO]: MurderousLynx left the game
+[13:39:22] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.450894548805195
+[13:39:22] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5578144140060459
+[13:40:15] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.3182923856273874
+[13:40:16] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.28009669130139514
+[13:40:16] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.6227983356039886
+[13:41:32] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.32552526902406953
+[13:43:32] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.3327740721015289
+[13:45:31] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.26277878901055374
+[13:48:04] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4118453242153919
+[13:48:45] [Server thread/INFO]: unikittiezz has made the advancement [Voluntary Exile]
+[13:49:26] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.3117671697566493
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.2536161982521397
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.7024187462915183
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.46635776901308046
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4757735961740223
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4807224418008285
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.48262771975707175
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.48368313774091803
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.9684963703339359
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4847945676093559
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4816532914618392
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.47824442196281325
+[13:50:09] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.9546648258221921
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.47634554820740505
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4795801764547605
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.47382707150875547
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.9190705600511866
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.465769961719227
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4775210853079656
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.48578529704671686
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.49066084835794427
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4933917134592205
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.49483979806592066
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4956859246870884
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.49620810440220625
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4965148637026172
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.9932003221414671
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.49678106425554186
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4968321322823562
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.4968596407845983
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.33223636022908837
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.2762136668580735
+[13:50:10] [Server thread/WARN]: Horse (vehicle of Id0nutcare) moved wrongly! 0.25893730742319576
+[13:56:11] [User Authenticator #45/INFO]: UUID of player MurderousLynx is ba604261-1207-42d1-afba-cae9da9962b7
+[13:56:11] [Server thread/INFO]: MurderousLynx[/192.168.1.1:61073] logged in with entity id 2070150 at (-726.1985512086234, 71.0, 130.04739977368027)
+[13:56:11] [Server thread/INFO]: MurderousLynx joined the game
+[13:56:43] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[13:56:43] [Server thread/INFO]: unikittiezz left the game
+[13:57:14] [Server thread/INFO]: MurderousLynx has made the advancement [Acquire Hardware]
+[14:06:31] [Server thread/INFO]: MurderousLynx has made the advancement [Monster Hunter]
+[14:09:33] [Server thread/INFO]: MurderousLynx has made the advancement [Stone Age]
+[14:26:37] [Server thread/INFO]: MurderousLynx has made the advancement [Getting an Upgrade]
+[14:33:35] [Server thread/INFO]: MurderousLynx lost connection: Disconnected
+[14:33:35] [Server thread/INFO]: MurderousLynx left the game
+[14:38:16] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[14:38:16] [Server thread/INFO]: Id0nutcare left the game
+[14:40:07] [User Authenticator #46/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[14:40:07] [Server thread/INFO]: Id0nutcare[/192.168.1.1:51072] logged in with entity id 2076316 at (-830.1795139784421, 70.0, 132.74893916291794)
+[14:40:07] [Server thread/INFO]: Id0nutcare joined the game
+[14:40:39] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[14:40:39] [Server thread/INFO]: Id0nutcare left the game
+[14:46:39] [User Authenticator #47/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[14:46:39] [Server thread/INFO]: Id0nutcare[/192.168.1.1:51147] logged in with entity id 2076635 at (-835.3316482863502, 63.0, 111.29755300673965)
+[14:46:39] [Server thread/INFO]: Id0nutcare joined the game
+[15:28:27] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[15:28:27] [Server thread/INFO]: Id0nutcare left the game
+[16:57:36] [User Authenticator #48/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[16:57:36] [Server thread/INFO]: Id0nutcare[/192.168.1.1:51666] logged in with entity id 2081616 at (-833.5145477272838, 63.0, 107.5612153817112)
+[16:57:36] [Server thread/INFO]: Id0nutcare joined the game
+[17:21:49] [User Authenticator #49/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[17:21:49] [Server thread/INFO]: unikittiezz[/192.168.1.1:50743] logged in with entity id 2084629 at (-705.4446340804342, 73.0, 67.91833509685205)
+[17:21:49] [Server thread/INFO]: unikittiezz joined the game
+[17:22:38] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[17:22:38] [Server thread/INFO]: unikittiezz left the game
+[17:23:03] [User Authenticator #50/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[17:23:03] [Server thread/INFO]: unikittiezz[/192.168.1.1:50767] logged in with entity id 2084823 at (-705.4446340804342, 73.0, 67.91833509685205)
+[17:23:03] [Server thread/INFO]: unikittiezz joined the game
+[17:23:48] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[17:23:48] [Server thread/INFO]: unikittiezz left the game
+[17:24:49] [User Authenticator #51/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[17:24:49] [Server thread/INFO]: unikittiezz[/192.168.1.1:50815] logged in with entity id 2085099 at (-705.4446340804342, 73.0, 67.91833509685205)
+[17:24:49] [Server thread/INFO]: unikittiezz joined the game
+[17:29:42] [Server thread/WARN]: Id0nutcare moved too quickly! -5.021798413492775,5.0,7.197620846576882
+[17:36:06] [Server thread/WARN]: Id0nutcare moved too quickly! -3.7661212779300968,-1.0,-9.249177915301871
+[17:45:29] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[17:45:29] [Server thread/INFO]: Id0nutcare left the game
+[17:45:34] [User Authenticator #52/INFO]: UUID of player Id0nutcare is f2fa1caa-fbeb-41f6-81c0-84b48c30271e
+[17:45:34] [Server thread/INFO]: Id0nutcare[/192.168.1.1:51846] logged in with entity id 2089616 at (-827.8929632846997, 64.0, 115.50808249025492)
+[17:45:34] [Server thread/INFO]: Id0nutcare joined the game
+[17:59:10] [Server thread/INFO]: Id0nutcare lost connection: Disconnected
+[17:59:10] [Server thread/INFO]: Id0nutcare left the game
+[17:59:18] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[17:59:18] [Server thread/INFO]: unikittiezz left the game

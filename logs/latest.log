@@ -1,129 +1,129 @@
-[00:00:09] [Server thread/WARN]: tomisherio moved too quickly! -8.267054937461353,-1.6346765853724747,-15.435821982851394
-[00:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7064ms or 141 ticks behind
-[00:00:16] [Server thread/WARN]: Ya_Im_Andrew moved too quickly! -10.169841994083754,0.0,-0.747360505284064
-[00:00:18] [Server thread/WARN]: tomisherio moved too quickly! -16.098577793652566,-2.183987513205267,9.876295920587154
-[00:00:20] [Server thread/WARN]: tomisherio moved too quickly! -14.475167594923278,-1.8065104600654394,10.738627990527675
-[00:00:26] [Server thread/WARN]: tomisherio moved too quickly! -0.9630605612192085,-0.31600356861450507,17.98956661147571
-[00:00:29] [Server thread/WARN]: tomisherio moved too quickly! -2.0609422834700126,1.118780979607081,18.077882753044037
-[00:00:35] [Server thread/WARN]: tomisherio moved too quickly! -0.7411224272902928,2.120956102337672,17.37057472424192
-[00:00:37] [Server thread/WARN]: Ya_Im_Andrew moved too quickly! 4.936105121576929,-0.12129684053920187,8.96476044489566
-[00:00:44] [Server thread/WARN]: tomisherio moved too quickly! -0.29288047488898883,-1.3043413995094824,17.454672060736925
-[00:00:46] [Server thread/INFO]: <tomisherio> anyone else rubberbanding?
-[00:00:53] [Server thread/INFO]: <unikittiezz> yup
-[00:00:58] [Server thread/INFO]: <Ya_Im_Andrew> my fault
-[00:01:06] [Server thread/INFO]: <unikittiezz> bad dad
-[00:01:08] [Server thread/WARN]: tomisherio moved too quickly! -18.317757280559817,-0.36426455034545313,-0.851109225519167
-[00:01:11] [Server thread/WARN]: tomisherio moved too quickly! -17.378323464309005,-1.8149344386308144,0.47141101910119687
-[00:01:21] [Server thread/INFO]: <Ya_Im_Andrew> indead
-[00:01:26] [Server thread/INFO]: <Ya_Im_Andrew> indeed
-[00:01:43] [Server thread/INFO]: <Ya_Im_Andrew> meh maybe first one was better indead
-[00:02:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Sand'/78352, l='ServerLevel[ZaWarudo]', x=1198.31, y=67.00, z=417.88]
-[00:02:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Sand'/78366, l='ServerLevel[ZaWarudo]', x=1197.85, y=68.88, z=416.37]
-[00:04:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=946, y=73, z=437} class_2338{x=945, y=72, z=437}
-[00:04:11] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 1 blocks]
-[00:04:28] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 1 blocks]
-[00:04:35] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 1 blocks]
-[00:04:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=945, y=72, z=464} class_2338{x=946, y=70, z=462}
-[00:05:10] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 45 blocks]
-[00:05:20] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 360 blocks]
-[00:05:27] [Server thread/INFO]: [Ya_Im_Andrew: Successfully filled 405 blocks]
-[00:05:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:05:58] [Server thread/INFO]: /announce I need to restart<--[HERE]
-[00:06:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:06:02] [Server thread/INFO]: /announce<--[HERE]
-[00:06:04] [Server thread/INFO]: /advancement (grant|revoke)
-[00:06:04] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
-[00:06:04] [Server thread/INFO]: /ban <targets> [<reason>]
-[00:06:04] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[00:06:04] [Server thread/INFO]: /banlist [ips|players]
-[00:06:04] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[00:06:04] [Server thread/INFO]: /clear [<targets>]
-[00:06:04] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[00:06:04] [Server thread/INFO]: /data (get|merge|modify|remove)
-[00:06:04] [Server thread/INFO]: /datapack (disable|enable|list)
-[00:06:04] [Server thread/INFO]: /debug (report|start|stop)
-[00:06:04] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[00:06:04] [Server thread/INFO]: /deop <targets>
-[00:06:04] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[00:06:04] [Server thread/INFO]: /effect (clear|give)
-[00:06:04] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[00:06:04] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[00:06:04] [Server thread/INFO]: /experience (add|query|set)
-[00:06:04] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[00:06:04] [Server thread/INFO]: /forceload (add|query|remove)
-[00:06:04] [Server thread/INFO]: /function <name>
-[00:06:04] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[00:06:04] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[00:06:04] [Server thread/INFO]: /give <targets> <item> [<count>]
-[00:06:04] [Server thread/INFO]: /help [<command>]
-[00:06:04] [Server thread/INFO]: /kick <targets> [<reason>]
-[00:06:04] [Server thread/INFO]: /kill [<targets>]
-[00:06:04] [Server thread/INFO]: /list [uuids]
-[00:06:04] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
-[00:06:04] [Server thread/INFO]: /locatebiome <biome>
-[00:06:04] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[00:06:04] [Server thread/INFO]: /me <action>
-[00:06:04] [Server thread/INFO]: /msg <targets> <message>
-[00:06:04] [Server thread/INFO]: /op <targets>
-[00:06:04] [Server thread/INFO]: /pardon <targets>
-[00:06:04] [Server thread/INFO]: /pardon-ip <target>
-[00:06:04] [Server thread/INFO]: /particle <name> [<pos>]
-[00:06:04] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[00:06:04] [Server thread/INFO]: /recipe (give|take)
-[00:06:04] [Server thread/INFO]: /reload
-[00:06:04] [Server thread/INFO]: /replaceitem (block|entity)
-[00:06:04] [Server thread/INFO]: /save-all [flush]
-[00:06:04] [Server thread/INFO]: /save-off
-[00:06:04] [Server thread/INFO]: /save-on
-[00:06:04] [Server thread/INFO]: /say <message>
-[00:06:04] [Server thread/INFO]: /schedule (clear|function)
-[00:06:04] [Server thread/INFO]: /scoreboard (objectives|players)
-[00:06:04] [Server thread/INFO]: /seed
-[00:06:04] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[00:06:04] [Server thread/INFO]: /setidletimeout <minutes>
-[00:06:04] [Server thread/INFO]: /setworldspawn [<pos>]
-[00:06:04] [Server thread/INFO]: /spawnpoint [<targets>]
-[00:06:04] [Server thread/INFO]: /spectate [<target>]
-[00:06:04] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[00:06:04] [Server thread/INFO]: /stop
-[00:06:04] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[00:06:04] [Server thread/INFO]: /summon <entity> [<pos>]
-[00:06:04] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[00:06:04] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[00:06:04] [Server thread/INFO]: /teammsg <message>
-[00:06:04] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[00:06:04] [Server thread/INFO]: /tell -> msg
-[00:06:04] [Server thread/INFO]: /tellraw <targets> <message>
-[00:06:04] [Server thread/INFO]: /time (add|query|set)
-[00:06:04] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[00:06:04] [Server thread/INFO]: /tm -> teammsg
-[00:06:04] [Server thread/INFO]: /tp -> teleport
-[00:06:04] [Server thread/INFO]: /trigger <objective> [add|set]
-[00:06:04] [Server thread/INFO]: /w -> msg
-[00:06:04] [Server thread/INFO]: /weather (clear|rain|thunder)
-[00:06:04] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[00:06:04] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[00:06:04] [Server thread/INFO]: /xp -> experience
-[00:06:07] [Server thread/INFO]: [Server] I need to restart
-[00:06:11] [Server thread/INFO]: <unikittiezz> NO
-[00:06:13] [Server thread/INFO]: <unikittiezz> :P
-[00:06:17] [Server thread/INFO]: <tomisherio> do it
-[00:06:18] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[00:06:18] [Server thread/INFO]: tomisherio left the game
-[00:06:22] [Server thread/INFO]: Ya_Im_Andrew lost connection: Disconnected
-[00:06:22] [Server thread/INFO]: Ya_Im_Andrew left the game
-[00:06:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:06:25] [Server thread/INFO]: sstop<--[HERE]
-[00:06:28] [Server thread/INFO]: Stopping the server
-[00:06:28] [Server thread/INFO]: Stopping server
-[00:06:28] [Server thread/INFO]: Saving players
-[00:06:28] [Server thread/INFO]: Saving worlds
-[00:06:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:overworld
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
-[00:06:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_nether
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:06:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_end
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:06:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:28] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[00:09:51] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[00:10:51] [Server thread/INFO]: [GanonCann0n: Teleported GanonCann0n to -213.5, 76.0, 192.5]
+[00:10:51] [Server thread/WARN]: GanonCann0n moved too quickly! -1160.6883386651643,7.0,-364.533179175134
+[00:10:51] [Server thread/WARN]: GanonCann0n moved too quickly! -1160.6883386651643,7.0,-364.533179175134
+[00:10:51] [Server thread/WARN]: GanonCann0n moved too quickly! -1160.6883386651643,7.0,-364.533179175134
+[00:10:51] [Server thread/WARN]: GanonCann0n moved too quickly! -1160.6883386651643,7.0,-364.533179175134
+[00:10:51] [Server thread/WARN]: GanonCann0n moved too quickly! -1160.6883386651643,7.0,-364.533179175134
+[00:11:19] [Server thread/INFO]: [GanonCann0n: Teleported GanonCann0n to tomisherio]
+[00:14:16] [Server thread/INFO]: GanonCann0n lost connection: Disconnected
+[00:14:16] [Server thread/INFO]: GanonCann0n left the game
+[01:03:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/80529, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-94.70]
+[01:26:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/107643, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.30]
+[03:33:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/257419, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-94.47]
+[03:34:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258700, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-94.30]
+[07:05:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/509415, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.87]
+[08:15:09] [Server thread/INFO]: tomisherio was fireballed by Ghast
+[12:07:48] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -346.5, 198.0, -92.5]
+[12:07:51] [Server thread/INFO]: tomisherio fell from a high place
+[12:08:10] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -346.5, 127.0, -89.5]
+[12:49:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/620617, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.90]
+[13:09:49] [Server thread/INFO]: tomisherio was slain by Vindicator
+[13:11:10] [Server thread/INFO]: tomisherio was slain by Vindicator
+[13:22:14] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[13:22:31] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[14:34:22] [Server thread/INFO]: tomisherio was slain by Husk
+[15:57:53] [Server thread/WARN]: tomisherio moved wrongly!
+[16:09:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/667383, l='ServerLevel[ZaWarudo]', x=-34.94, y=6.00, z=34.94]
+[16:10:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/668170, l='ServerLevel[ZaWarudo]', x=-13.12, y=6.00, z=34.94]
+[16:16:14] [Server thread/INFO]: tomisherio hit the ground too hard
+[16:17:45] [Server thread/INFO]: tomisherio fell from a high place
+[16:19:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=7, z=81} class_2338{x=-143, y=6, z=81}
+[16:23:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-156, y=7, z=58} class_2338{x=-155, y=6, z=58}
+[16:33:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-96, y=7, z=82} class_2338{x=-97, y=6, z=83}
+[16:33:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-91, y=7, z=84} class_2338{x=-91, y=6, z=83}
+[17:03:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/692131, l='ServerLevel[ZaWarudo]', x=-67.24, y=72.00, z=80.70]
+[18:32:05] [Server thread/INFO]: Villager class_1646['Villager'/284, l='ServerLevel[ZaWarudo]', x=-58.74, y=69.50, z=138.33] died, message: 'Villager was squished too much'
+[19:00:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/745728, l='ServerLevel[ZaWarudo]', x=-14.42, y=6.00, z=34.14]
+[19:12:12] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:12:12] [Server thread/INFO]: tomisherio left the game
+[19:14:46] [User Authenticator #4/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:14:46] [Server thread/INFO]: tomisherio[/184.103.253.150:61186] logged in with entity id 749591 at (-18.109308958975305, 129.0, 21.5)
+[19:14:46] [Server thread/INFO]: tomisherio joined the game
+[19:16:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/753730, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.86]
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:24:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[19:49:09] [Server thread/WARN]: tomisherio moved wrongly!
+[19:50:35] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:51:16] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:57:33] [Server thread/INFO]: Villager class_1646['Leatherworker'/763575, l='ServerLevel[ZaWarudo]', x=1243.41, y=72.50, z=783.39] died, message: 'Leatherworker was slain by Vindicator'
+[19:57:34] [Server thread/INFO]: Villager class_1646['Villager'/763471, l='ServerLevel[ZaWarudo]', x=1240.49, y=70.00, z=783.30] died, message: 'Villager was slain by Vindicator'
+[19:57:43] [Server thread/INFO]: Villager class_1646['Librarian'/763659, l='ServerLevel[ZaWarudo]', x=1240.95, y=70.00, z=783.51] died, message: 'Librarian was slain by Vindicator'
+[19:58:00] [Server thread/INFO]: Villager class_1646['Leatherworker'/763586, l='ServerLevel[ZaWarudo]', x=1240.50, y=70.23, z=776.02] died, message: 'Leatherworker was slain by Vindicator'
+[19:58:26] [Server thread/INFO]: Villager class_1646['Librarian'/763584, l='ServerLevel[ZaWarudo]', x=1212.05, y=72.00, z=750.74] died, message: 'Librarian was slain by Vindicator'
+[19:58:43] [Server thread/INFO]: Villager class_1646['Toolsmith'/763623, l='ServerLevel[ZaWarudo]', x=1245.46, y=70.00, z=783.74] died, message: 'Toolsmith was slain by Vindicator'
+[20:00:06] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:00:07] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:00:07] [Server thread/WARN]: tomisherio moved wrongly!
+[20:00:42] [Server thread/WARN]: tomisherio moved wrongly!
+[20:03:40] [Server thread/INFO]: Villager class_1646['Leatherworker'/763576, l='ServerLevel[ZaWarudo]', x=1265.29, y=69.00, z=803.62] died, message: 'Leatherworker was slain by Vindicator'
+[20:06:15] [Server thread/INFO]: tomisherio was slain by Ravager
+[20:07:49] [Server thread/INFO]: tomisherio was slain by Vindicator
+[20:07:56] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:08:01] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 1243.5, 69.0, 819.5]
+[20:08:01] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/767618, l='ServerLevel[ZaWarudo]', x=1243.70, y=70.95, z=819.58]
+[20:08:34] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:08:53] [Server thread/INFO]: Villager class_1646['Cleric'/763567, l='ServerLevel[ZaWarudo]', x=1230.40, y=72.56, z=736.07] died, message: 'Cleric was slain by Vindicator'
+[20:14:30] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:14:57] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:36:45] [Server thread/INFO]: [tomisherio: Gave 1 [Redstone Dust] to tomisherio]
+[20:38:01] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:38:04] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:38:16] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:42:41] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:42:47] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:44:27] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:44:27] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:44:36] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:44:39] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:47:57] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:48:10] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:53:41] [Server thread/INFO]: [tomisherio: Removed 393 items from player tomisherio]
+[20:57:24] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:57:25] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:57:27] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:20:46] [Server thread/INFO]: [tomisherio: Gave 1 [Beacon] to tomisherio]
+[21:36:08] [Server thread/INFO]: [tomisherio: Gave 1 [Jack o'Lantern] to tomisherio]
+[21:38:41] [Server thread/INFO]: [tomisherio: Gave 64 [Stone Button] to tomisherio]
+[21:38:46] [Server thread/INFO]: [tomisherio: Gave 1 [Oak Button] to tomisherio]
+[21:38:47] [Server thread/INFO]: [tomisherio: Gave 1 [Spruce Button] to tomisherio]
+[21:38:48] [Server thread/INFO]: [tomisherio: Gave 1 [Birch Button] to tomisherio]
+[21:38:48] [Server thread/INFO]: [tomisherio: Gave 1 [Jungle Button] to tomisherio]
+[21:38:48] [Server thread/INFO]: [tomisherio: Gave 1 [Acacia Button] to tomisherio]
+[21:38:49] [Server thread/INFO]: [tomisherio: Gave 1 [Dark Oak Button] to tomisherio]
+[21:38:50] [Server thread/INFO]: [tomisherio: Gave 1 [Crimson Button] to tomisherio]
+[21:38:50] [Server thread/INFO]: [tomisherio: Gave 1 [Warped Button] to tomisherio]
+[21:39:08] [Server thread/INFO]: [tomisherio: Gave 64 [Polished Blackstone Button] to tomisherio]
+[22:30:36] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:48:18] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:48:28] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:53:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:53:06] [Server thread/INFO]: need to restart rq<--[HERE]
+[22:53:14] [Server thread/INFO]: [Server] need to restart rq
+[22:53:18] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[22:53:18] [Server thread/INFO]: tomisherio left the game
+[22:53:21] [Server thread/INFO]: Stopping the server
+[22:53:21] [Server thread/INFO]: Stopping server
+[22:53:21] [Server thread/INFO]: Saving players
+[22:53:21] [Server thread/INFO]: Saving worlds
+[22:53:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:overworld
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[22:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_nether
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_end
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,0 +1,24 @@
+[17:57:39] [User Authenticator #1/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[17:57:39] [Server thread/INFO]: tomisherio[/184.103.253.150:57133] logged in with entity id 136 at (-89.29528068023222, 71.5, 164.82208641581906)
+[17:57:39] [Server thread/INFO]: tomisherio joined the game
+[17:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7278ms or 145 ticks behind
+[17:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6776ms or 135 ticks behind
+[21:01:05] [Server thread/INFO]: tomisherio fell from a high place
+[21:27:21] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[21:27:21] [Server thread/INFO]: tomisherio left the game
+[23:22:30] [User Authenticator #2/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[23:22:30] [Server thread/INFO]: tomisherio[/184.103.253.150:58161] logged in with entity id 41430 at (1091.1823644568508, 74.0, 542.4224535196465)
+[23:22:30] [Server thread/INFO]: tomisherio joined the game
+[23:31:51] [Server thread/INFO]: [tomisherio: Gave 1 [Sea Lantern] to tomisherio]
+[23:33:17] [User Authenticator #3/INFO]: UUID of player GanonCann0n is ce34b950-cf6f-4093-8021-f361d57ec21e
+[23:33:18] [Server thread/INFO]: GanonCann0n[/192.168.1.1:62347] logged in with entity id 43865 at (-236.401574857325, 102.0, 170.46895285986201)
+[23:33:18] [Server thread/INFO]: GanonCann0n joined the game
+[23:35:59] [Server thread/INFO]: [GanonCann0n: Teleported GanonCann0n to tomisherio]
+[23:35:59] [Server thread/WARN]: GanonCann0n moved too quickly! 13.985605288471362,83.0,8.077277696875221
+[23:35:59] [Server thread/WARN]: GanonCann0n moved too quickly! 13.985605288471362,83.0,8.077277696875221
+[23:42:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/47816, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-93.99]
+[23:42:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/47816, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-93.99]
+[23:53:43] [Server thread/INFO]: [tomisherio: Gave 2 [Soul Lantern] to tomisherio]
+[23:58:08] [Server thread/INFO]: [GanonCann0n: Set the time to 13000]
+[23:58:17] [Server thread/INFO]: [GanonCann0n: Set the time to 20000]
+[23:59:46] [Server thread/INFO]: [tomisherio: Gave 2 [Sea Lantern] to tomisherio]
