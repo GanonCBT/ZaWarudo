@@ -628,7 +628,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-07-21 23:38:17 -0500"
+      "tick": "2020-08-07 00:10:37 -0500"
     },
     "done": false
   },
@@ -891,6 +891,7 @@
       "minecraft:hoglin": "2020-07-05 20:21:21 -0500",
       "minecraft:vindicator": "2020-07-17 21:42:52 -0500",
       "minecraft:spider": "2020-06-25 23:31:02 -0500",
+      "minecraft:creeper": "2020-08-05 22:03:43 -0500",
       "minecraft:phantom": "2020-06-25 23:08:11 -0500",
       "minecraft:witch": "2020-07-17 21:56:18 -0500",
       "minecraft:husk": "2020-08-04 00:00:29 -0500",
