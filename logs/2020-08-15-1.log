@@ -1,0 +1,33 @@
+[07:58:52] [User Authenticator #6/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[07:58:53] [Server thread/INFO]: tomisherio[/184.103.253.150:60445] logged in with entity id 1738899 at (1164.3595505151898, 68.80948674189209, 491.8854166802533)
+[07:58:53] [Server thread/INFO]: tomisherio joined the game
+[07:59:02] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:10:10] [Server thread/WARN]: tomisherio moved wrongly!
+[08:11:54] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:12:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:43:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1754712, l='ServerLevel[ZaWarudo]', x=-67.65, y=72.00, z=58.70]
+[08:56:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1759295, l='ServerLevel[ZaWarudo]', x=-38.68, y=72.00, z=80.70]
+[09:09:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1763509, l='ServerLevel[ZaWarudo]', x=-139.24, y=56.61, z=23.50]
+[09:28:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1770708, l='ServerLevel[ZaWarudo]', x=-67.66, y=72.00, z=58.70]
+[09:49:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1777614, l='ServerLevel[ZaWarudo]', x=-67.28, y=72.00, z=80.70]
+[10:20:50] [Server thread/INFO]: Villager class_1646['Villager'/565, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.27, z=138.70] died, message: 'Villager was squished too much'
+[10:22:22] [Server thread/INFO]: Villager class_1646['Villager'/582, l='ServerLevel[ZaWarudo]', x=-58.68, y=69.50, z=138.16] died, message: 'Villager was squished too much'
+[10:27:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1791703, l='ServerLevel[ZaWarudo]', x=-67.31, y=72.00, z=80.70]
+[10:55:20] [Server thread/INFO]: Villager class_1646['Villager'/583, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.50, z=138.25] died, message: 'Villager was squished too much'
+[11:20:48] [Server thread/INFO]: Villager class_1646['Villager'/1759690, l='ServerLevel[ZaWarudo]', x=-58.79, y=69.50, z=138.12] died, message: 'Villager was squished too much'
+[11:39:53] [Server thread/INFO]: Villager class_1646['Villager'/38935, l='ServerLevel[ZaWarudo]', x=-58.85, y=69.62, z=138.21] died, message: 'Villager was squished too much'
+[12:23:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1833888, l='ServerLevel[ZaWarudo]', x=-67.29, y=72.00, z=58.70]
+[12:53:29] [Server thread/INFO]: Villager class_1646['Villager'/1780311, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.19, z=138.37] died, message: 'Villager was squished too much'
+[13:03:57] [Server thread/INFO]: Villager class_1646['Villager'/1773644, l='ServerLevel[ZaWarudo]', x=-58.58, y=69.97, z=138.70] died, message: 'Villager was squished too much'
+[13:06:21] [Server thread/INFO]: Villager class_1646['Villager'/1745703, l='ServerLevel[ZaWarudo]', x=-58.86, y=69.52, z=138.12] died, message: 'Villager was squished too much'
+[13:47:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1864758, l='ServerLevel[ZaWarudo]', x=-67.38, y=72.00, z=58.70]
+[14:00:10] [Server thread/INFO]: Villager class_1646['Villager'/584, l='ServerLevel[ZaWarudo]', x=-58.85, y=69.51, z=138.12] died, message: 'Villager was squished too much'
+[14:30:05] [Server thread/INFO]: Villager class_1646['Villager'/1810116, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.66, z=138.11] died, message: 'Villager was squished too much'
+[14:36:53] [Server thread/INFO]: Villager class_1646['Villager'/1825160, l='ServerLevel[ZaWarudo]', x=-58.80, y=69.51, z=138.12] died, message: 'Villager was squished too much'
+[14:55:26] [Server thread/INFO]: Villager class_1646['Villager'/1787151, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.67, z=138.18] died, message: 'Villager was squished too much'
+[15:14:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1897576, l='ServerLevel[ZaWarudo]', x=-67.31, y=72.00, z=58.70]
+[15:16:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1898581, l='ServerLevel[ZaWarudo]', x=-67.34, y=72.00, z=80.70]
+[15:17:43] [Server thread/INFO]: Villager class_1646['Villager'/1890189, l='ServerLevel[ZaWarudo]', x=-77.30, y=67.41, z=137.49] died, message: 'Villager suffocated in a wall'
+[15:54:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1915052, l='ServerLevel[ZaWarudo]', x=-38.29, y=72.00, z=102.70]
+[18:58:39] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[18:58:39] [Server thread/INFO]: tomisherio left the game

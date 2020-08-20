@@ -1,0 +1,196 @@
+[00:02:06] [User Authenticator #7/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[00:02:06] [Server thread/INFO]: tomisherio[/184.103.253.150:53518] logged in with entity id 1948379 at (1161.6543593484396, 68.0, 475.65252651413647)
+[00:02:06] [Server thread/INFO]: tomisherio joined the game
+[00:17:57] [Server thread/WARN]: Entity class_1613['Skeleton'/1953052, l='ServerLevel[ZaWarudo]', x=-78.50, y=48.90, z=202.50] left loaded chunk area
+[00:46:10] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[00:46:40] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[01:18:34] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[01:18:48] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[01:42:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1153, y=68, z=488} class_2338{x=1184, y=66, z=565}
+[01:42:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1153, y=68, z=488} class_2338{x=1176, y=66, z=561}
+[01:50:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1980834, l='ServerLevel[ZaWarudo]', x=-30.31, y=6.00, z=13.26]
+[02:14:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=132, y=128, z=70} class_2338{x=1166, y=61, z=505}
+[02:37:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1165, y=65, z=554} class_2338{x=1165, y=67, z=553}
+[02:39:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1196, y=66, z=551} class_2338{x=1165, y=67, z=553}
+[02:45:10] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[02:52:58] [Server thread/INFO]: [tomisherio: Removed 7 items from player tomisherio]
+[02:53:07] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[05:31:47] [Server thread/INFO]: Villager class_1646['Villager'/1870278, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.18, z=138.37] died, message: 'Villager was squished too much'
+[05:36:01] [Server thread/INFO]: Villager class_1646['Villager'/1838833, l='ServerLevel[ZaWarudo]', x=-58.89, y=69.52, z=138.12] died, message: 'Villager was squished too much'
+[05:48:08] [Server thread/INFO]: Villager class_1646['Villager'/1802408, l='ServerLevel[ZaWarudo]', x=-58.84, y=69.38, z=138.70] died, message: 'Villager was squished too much'
+[06:10:43] [Server thread/INFO]: Villager class_1646['Villager'/580, l='ServerLevel[ZaWarudo]', x=-58.58, y=69.28, z=138.70] died, message: 'Villager was squished too much'
+[08:04:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/2094988, l='ServerLevel[ZaWarudo]', x=-40.94, y=68.13, z=37.91]
+[08:13:47] [Server thread/INFO]: Villager class_1646['Villager'/1983180, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.61, z=138.29] died, message: 'Villager was squished too much'
+[08:19:18] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[08:19:23] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:24:59] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:25:37] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:25:42] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:25:51] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:25:55] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:26:01] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:26:05] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:26:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:26:15] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:26:21] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:26:36] [Server thread/INFO]: [tomisherio: Gave 64 [Note Block] to tomisherio]
+[08:26:46] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:26:57] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:27:39] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[08:30:44] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1823.5, 8.0, 1672.5]
+[08:30:55] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:31:37] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[08:33:18] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -62.5, 94.0, 70.5]
+[08:35:04] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:37:21] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:37:24] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:37:28] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:37:31] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[08:37:46] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[08:44:25] [Server thread/INFO]: Villager class_1646['Villager'/1846555, l='ServerLevel[ZaWarudo]', x=-58.67, y=69.36, z=138.26] died, message: 'Villager was squished too much'
+[08:53:27] [Server thread/INFO]: Villager class_1646['Villager'/1860824, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.66, z=138.25] died, message: 'Villager was squished too much'
+[08:53:54] [Server thread/INFO]: Villager class_1646['Villager'/2010421, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.40, z=138.26] died, message: 'Villager was squished too much'
+[09:39:28] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[09:39:29] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[09:39:39] [Server thread/INFO]: Villager class_1646['Villager'/425, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.70] died, message: 'Villager was slain by tomisherio'
+[09:39:43] [Server thread/INFO]: Villager class_1646['Villager'/423, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.70] died, message: 'Villager was slain by tomisherio'
+[09:39:44] [Server thread/INFO]: Villager class_1646['Villager'/429, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.30] died, message: 'Villager was slain by tomisherio'
+[09:39:45] [Server thread/INFO]: Villager class_1646['Villager'/428, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.70] died, message: 'Villager was slain by tomisherio'
+[09:39:46] [Server thread/INFO]: Villager class_1646['Villager'/424, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.35] died, message: 'Villager was slain by tomisherio'
+[09:39:47] [Server thread/INFO]: Villager class_1646['Villager'/426, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.70] died, message: 'Villager was slain by tomisherio'
+[09:39:50] [Server thread/INFO]: Villager class_1646['Villager'/422, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.66] died, message: 'Villager was slain by tomisherio'
+[09:39:51] [Server thread/INFO]: Villager class_1646['Villager'/427, l='ServerLevel[ZaWarudo]', x=-93.70, y=69.50, z=137.70] died, message: 'Villager was slain by tomisherio'
+[09:50:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:53:24] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[09:54:40] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:55:57] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[09:56:19] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:59:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2185440, l='ServerLevel[ZaWarudo]', x=-32.43, y=6.00, z=13.26]
+[09:59:27] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[09:59:57] [Server thread/INFO]: Villager class_1646['Villager'/1875388, l='ServerLevel[ZaWarudo]', x=-58.85, y=69.39, z=138.70] died, message: 'Villager was squished too much'
+[10:00:25] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:00:45] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:01:00] [Server thread/INFO]: [tomisherio: Applied effect Regeneration to tomisherio]
+[10:01:03] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:03:45] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:03:58] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:12:41] [Server thread/INFO]: [tomisherio: Gave 2 [Quartz Stairs] to tomisherio]
+[10:47:36] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[10:47:36] [Server thread/INFO]: tomisherio left the game
+[10:52:01] [User Authenticator #8/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[10:52:01] [Server thread/INFO]: tomisherio[/184.103.253.150:54376] logged in with entity id 2208328 at (1136.7152021721322, 68.0, 508.18135218480217)
+[10:52:01] [Server thread/INFO]: tomisherio joined the game
+[10:57:28] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[11:01:42] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[11:01:42] [Server thread/INFO]: tomisherio left the game
+[11:01:47] [User Authenticator #9/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[11:01:47] [Server thread/INFO]: tomisherio[/184.103.253.150:54410] logged in with entity id 2211350 at (1063.4527633188882, 72.35542263438647, 537.7386683489731)
+[11:01:47] [Server thread/INFO]: tomisherio joined the game
+[11:03:43] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[11:05:44] [Server thread/INFO]: Villager class_1646['Villager'/1915819, l='ServerLevel[ZaWarudo]', x=-58.87, y=69.48, z=138.13] died, message: 'Villager was squished too much'
+[11:13:10] [Server thread/INFO]: Villager class_1646['Villager'/566, l='ServerLevel[ZaWarudo]', x=-58.30, y=69.34, z=138.70] died, message: 'Villager was squished too much'
+[11:29:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2220177, l='ServerLevel[ZaWarudo]', x=-67.35, y=72.00, z=80.70]
+[12:01:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2230438, l='ServerLevel[ZaWarudo]', x=-67.36, y=72.00, z=80.70]
+[12:20:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2237234, l='ServerLevel[ZaWarudo]', x=-67.20, y=72.00, z=102.70]
+[12:39:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2243335, l='ServerLevel[ZaWarudo]', x=-67.69, y=72.00, z=80.70]
+[15:37:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2302635, l='ServerLevel[ZaWarudo]', x=-68.39, y=72.00, z=80.70]
+[16:14:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2314881, l='ServerLevel[ZaWarudo]', x=-67.70, y=72.00, z=58.70]
+[17:18:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2335931, l='ServerLevel[ZaWarudo]', x=-67.69, y=72.00, z=80.70]
+[17:58:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2349461, l='ServerLevel[ZaWarudo]', x=-67.68, y=72.00, z=58.70]
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1097, y=63, z=501} class_2338{x=1140, y=62, z=498}
+[18:16:50] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[18:16:55] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[18:38:04] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[18:53:26] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:11:56] [Server thread/INFO]: [tomisherio: Gave 64 [Green Glazed Terracotta] to tomisherio]
+[19:11:56] [Server thread/INFO]: [tomisherio: Gave 64 [Green Glazed Terracotta] to tomisherio]
+[19:11:57] [Server thread/INFO]: [tomisherio: Gave 64 [Green Glazed Terracotta] to tomisherio]
+[19:11:58] [Server thread/INFO]: [tomisherio: Gave 64 [Green Glazed Terracotta] to tomisherio]
+[19:12:14] [Server thread/INFO]: [tomisherio: Gave 64 [Lime Glazed Terracotta] to tomisherio]
+[19:12:15] [Server thread/INFO]: [tomisherio: Gave 64 [Lime Glazed Terracotta] to tomisherio]
+[19:12:16] [Server thread/INFO]: [tomisherio: Gave 64 [Lime Glazed Terracotta] to tomisherio]
+[19:12:16] [Server thread/INFO]: [tomisherio: Gave 64 [Lime Glazed Terracotta] to tomisherio]
+[19:24:30] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:32:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:41:11] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:45:37] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:04:39] [Server thread/INFO]: [tomisherio: Gave 1 [Packed Ice] to tomisherio]
+[20:11:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=996, y=69, z=584} class_2338{x=998, y=66, z=646}
+[20:11:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1014, y=67, z=646} class_2338{x=1016, y=66, z=646}
+[20:27:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397683, l='ServerLevel[ZaWarudo]', x=-228.37, y=26.50, z=211.74]
+[20:27:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397867, l='ServerLevel[ZaWarudo]', x=-228.57, y=27.00, z=213.57]
+[20:27:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397868, l='ServerLevel[ZaWarudo]', x=-228.57, y=27.00, z=211.43]
+[20:27:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397869, l='ServerLevel[ZaWarudo]', x=-226.43, y=27.00, z=213.57]
+[20:27:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397931, l='ServerLevel[ZaWarudo]', x=-228.57, y=27.00, z=213.57]
+[20:27:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2397976, l='ServerLevel[ZaWarudo]', x=-226.43, y=27.00, z=211.43]
+[20:27:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2398035, l='ServerLevel[ZaWarudo]', x=-228.57, y=26.63, z=213.57]
+[20:27:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2398070, l='ServerLevel[ZaWarudo]', x=-228.57, y=27.00, z=213.57]
+[20:27:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2398114, l='ServerLevel[ZaWarudo]', x=-226.43, y=26.63, z=213.57]
+[20:27:59] [Server thread/WARN]: tomisherio moved too quickly! 11.673156649026552,1.0556970007525308,-13.96383798992602
+[20:28:41] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:28:52] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:29:32] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:29:58] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -211.5, 65.0, 228.5]
+[20:31:18] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 23.5, 54.0, 57.5]
+[20:53:56] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 184.5, 22.0, 552.5]
+[20:56:10] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:56:17] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:56:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Ink Sac'/2403249, l='ServerLevel[ZaWarudo]', x=24.42, y=31.44, z=61.24]
+[20:57:07] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:57:19] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:57:20] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:57:30] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:57:44] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:57:50] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:59:24] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[20:59:56] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:00:00] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:00:04] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:00:08] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:00:13] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:00:29] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:00:45] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:23:33] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:24:11] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:24:25] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:25:00] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:26:15] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:43:02] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:43:06] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:43:14] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:43:17] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:43:23] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:44:56] [Server thread/INFO]: [tomisherio: Gave 1 [Glass] to tomisherio]
+[21:45:33] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:45:37] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:45:50] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:50:47] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:00:40] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:01:22] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:01:22] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:02:09] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:44:55] [Server thread/INFO]: [tomisherio: Gave 1 [Cactus] to tomisherio]
+[22:51:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2496257, l='ServerLevel[ZaWarudo]', x=-226.43, y=26.63, z=213.57]
+[22:51:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2496295, l='ServerLevel[ZaWarudo]', x=-226.43, y=27.00, z=211.43]
+[22:51:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2496385, l='ServerLevel[ZaWarudo]', x=-228.57, y=26.63, z=213.57]
+[22:58:05] [Server thread/INFO]: [tomisherio: Gave 5 [Black Stained Glass] to tomisherio]
+[23:08:21] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[23:08:21] [Server thread/INFO]: tomisherio left the game
+[23:10:40] [User Authenticator #10/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[23:10:40] [Server thread/INFO]: tomisherio[/184.103.253.150:59155] logged in with entity id 2500253 at (996.5386301899122, 68.875, 654.5096047000876)
+[23:10:40] [Server thread/INFO]: tomisherio joined the game
+[23:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=994, y=65, z=651} class_2338{x=994, y=65, z=652}
+[23:38:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=994, y=78, z=656} class_2338{x=994, y=79, z=656}
+[23:38:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=994, y=78, z=656} class_2338{x=994, y=79, z=656}
+[23:38:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=994, y=78, z=656} class_2338{x=994, y=79, z=656}
+[23:38:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=994, y=76, z=656} class_2338{x=994, y=79, z=656}
+[23:56:40] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:56:46] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
