@@ -1,0 +1,113 @@
+[20:24:52] [main/INFO]: [FabricLoader] Loading 46 mods: minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, inventorysorter@1.7.2-1.16, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.8+5ce533984e, fabricloader@0.9.2+build.206, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.6.0+e81ec80b4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, kyrptconfig@1.1.2-1.16, fabric-game-rule-api-v1@1.0.1+91555cd14e, bowinfinityfix@rv9, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.2.0+fc24ff244e, fabric-key-binding-api-v1@1.0.1+730711c64e, cloth-config2@4.7.0-unstable, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, blue_endless_jankson@+, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, fabric-commands-v0@0.2.0+52d308364e, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-renderer-registries-v1@2.1.0+e2862de64e, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric@0.18.0+build.397-1.16, carpet@1.4.8, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-networking-v0@0.1.10+e00ecb5f4e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[20:24:52] [main/WARN]: Mod `bowinfinityfix` (rv9) does not respect SemVer - comparison support is limited.
+[20:24:52] [main/WARN]: Mod `blue_endless_jankson` (+) does not respect SemVer - comparison support is limited.
+[20:24:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/D:/winbackup/MinecraftServers/ZaWarudo/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[20:24:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:24:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:59] [main/INFO]: Reloading ResourceManager: Default, anti creeper grief v1.0.2.zip, anti enderman grief v1.0.0.zip, anti ghast grief v1.0.0.zip, double shulker shells v1.2.0.zip, WrenchRP.zip, multiplayer sleep v1.0.2.zip, VanillaTweaks_c287303.zip, shulkershit.zip, Fabric Tool Attribute API (v1)
+[20:25:00] [Worker-Main-10/INFO]: Loaded 7 recipes
+[20:25:00] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[20:25:00] [Worker-Main-10/INFO]: Loaded 944 advancements
+[20:25:03] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[20:25:03] [Server thread/INFO]: Loading properties
+[20:25:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:03] [Server thread/INFO]: Generating keypair
+[20:25:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:03] [Server thread/INFO]: Using default channel type
+[20:25:03] [Server thread/INFO]: Preparing level "ZaWarudo"
+[20:25:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:05] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:05] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:05] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:05] [Server thread/INFO]: Preparing spawn area: 83%
+[20:25:06] [Server thread/INFO]: Time elapsed: 1957 ms
+[20:25:06] [Server thread/INFO]: Done (2.189s)! For help, type "help"
+[20:35:18] [User Authenticator #1/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[20:35:18] [Server thread/INFO]: unikittiezz[/192.168.1.1:53506] logged in with entity id 145 at (-705.4491154104581, 73.0, 72.51232997946077)
+[20:35:18] [Server thread/INFO]: unikittiezz joined the game
+[20:35:39] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[20:35:39] [Server thread/INFO]: unikittiezz left the game
+[20:36:45] [User Authenticator #2/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[20:36:45] [Server thread/INFO]: unikittiezz[/192.168.1.1:53551] logged in with entity id 395 at (-705.3864729318823, 73.0, 78.64087378981394)
+[20:36:45] [Server thread/INFO]: unikittiezz joined the game
+[21:32:47] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[21:32:47] [Server thread/INFO]: unikittiezz left the game
+[21:34:43] [User Authenticator #3/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[21:34:43] [Server thread/INFO]: unikittiezz[/192.168.1.1:54545] logged in with entity id 7608 at (-694.8258447466854, 73.0, 70.34231316986944)
+[21:34:43] [Server thread/INFO]: unikittiezz joined the game
+[21:37:59] [User Authenticator #4/INFO]: UUID of player MurderousLynx is ba604261-1207-42d1-afba-cae9da9962b7
+[21:37:59] [Server thread/INFO]: MurderousLynx[/70.121.81.184:50948] logged in with entity id 8163 at (-731.641423600835, 44.0, 149.69999998807907)
+[21:37:59] [Server thread/INFO]: MurderousLynx joined the game
+[21:44:45] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.25171309644238704
+[21:46:13] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.5074753822127605
+[21:46:13] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 1.026839183224297
+[21:46:16] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.4257697062396346
+[21:47:53] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.2649239459767898
+[21:47:53] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.7497051570212534
+[21:48:50] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.34386193418444577
+[21:48:50] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.8138311628244992
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:55:17] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:55:24] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3952356933573071
+[22:05:16] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.4646059419667381
+[22:05:16] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.984080841770492
+[22:05:16] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.38737672072261375
+[22:05:24] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2954617511744573
+[22:05:56] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.42457972920614395
+[22:06:00] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.322939269219944
+[22:06:00] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.7570625316741086
+[22:06:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.2509613866919693
+[22:06:48] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.4083150751419282
+[22:06:48] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.8693271071237376
+[22:21:50] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.28578406781230115
+[22:32:29] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.35544728374350143
+[22:32:29] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.8742452132302105
+[22:41:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-776, y=70, z=258} class_2338{x=-775, y=72, z=257}
+[22:56:55] [Server thread/INFO]: MurderousLynx has made the advancement [Suit Up]
+[23:10:00] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3779971221525784
+[23:10:01] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.3694566342427237
+[23:10:47] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.27435482537794087
+[23:10:47] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.533724993847045
+[23:10:47] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5680663301382083
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5866930641568615
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.5967211335682805
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6020869535722113
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6049580968734745
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6064943884094873
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6073164273800558
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.607756284043603
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6079916425743477
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6081793276973713
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6075892909476579
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6058064931258968
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6043585227166659
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6044348037085001
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.6055320153265029
+[23:10:48] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.31231151948816205
+[23:10:50] [Server thread/WARN]: Horse (vehicle of unikittiezz) moved wrongly! 0.31495639581407886
+[23:11:14] [Server thread/WARN]: MurderousLynx was kicked for floating too long!
+[23:11:14] [Server thread/INFO]: MurderousLynx lost connection: Flying is not enabled on this server
+[23:11:14] [Server thread/INFO]: MurderousLynx left the game
+[23:11:30] [User Authenticator #5/INFO]: UUID of player MurderousLynx is ba604261-1207-42d1-afba-cae9da9962b7
+[23:11:30] [Server thread/INFO]: MurderousLynx[/70.121.81.184:51408] logged in with entity id 27935 at (-693.3682342862686, 70.8500000178814, 138.93419110744043)
+[23:11:30] [Server thread/INFO]: MurderousLynx joined the game
+[23:14:00] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.301633188248843
+[23:14:00] [Server thread/WARN]: Horse (vehicle of MurderousLynx) moved wrongly! 0.9293046489647168
+[23:22:34] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[23:22:34] [Server thread/INFO]: unikittiezz left the game
+[23:22:45] [User Authenticator #6/INFO]: UUID of player unikittiezz is 6814cc81-0c4d-47cd-b7be-dc0b0589cdfc
+[23:22:45] [Server thread/INFO]: unikittiezz[/192.168.1.1:64079] logged in with entity id 29486 at (-694.3000000119209, 66.0, 179.88151450118525)
+[23:22:45] [Server thread/INFO]: unikittiezz joined the game
+[23:22:52] [Server thread/INFO]: unikittiezz lost connection: Disconnected
+[23:22:52] [Server thread/INFO]: unikittiezz left the game
+[23:29:20] [Server thread/INFO]: MurderousLynx has made the advancement [Isn't It Iron Pick]

@@ -1,0 +1,31 @@
+[00:00:27] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[00:00:27] [Server thread/INFO]: tomisherio left the game
+[21:00:47] [User Authenticator #13/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[21:00:47] [Server thread/INFO]: tomisherio[/184.103.157.120:50309] logged in with entity id 60125 at (-130.99848868304588, 45.87000871880036, 211.55047641111406)
+[21:00:47] [Server thread/INFO]: tomisherio joined the game
+[21:00:48] [Netty Server IO #17/INFO]: Player tomisherio joined with a matching carpet client
+[21:04:17] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:04:24] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:36:46] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:43:55] [Server thread/INFO]: Sugarcane[local] logged in with entity id 70112 at (1072.4549877035827, 85.0, 602.9983361946765)
+[21:43:55] [Server thread/INFO]: Sugarcane joined the game
+[21:44:09] [Server thread/INFO]: [tomisherio: Killed Sugarcane]
+[21:44:09] [Server thread/INFO]: Sugarcane lost connection: Killed
+[21:44:09] [Server thread/INFO]: Sugarcane left the game
+[21:49:31] [Server thread/INFO]: Villager class_1646['Librarian'/19864, l='ServerLevel[ZaWarudo]', x=-66.60, y=72.00, z=154.43] died, message: 'Librarian tried to swim in lava'
+[21:55:03] [Server thread/INFO]: [tomisherio: Gave 1 [Birch Sign] to tomisherio]
+[22:02:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/76220, l='ServerLevel[ZaWarudo]', x=-94.70, y=70.88, z=137.55]
+[22:02:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/76228, l='ServerLevel[ZaWarudo]', x=-94.70, y=70.88, z=137.55]
+[22:03:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/76498, l='ServerLevel[ZaWarudo]', x=-94.70, y=70.88, z=137.55]
+[22:03:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/76699, l='ServerLevel[ZaWarudo]', x=-94.49, y=70.88, z=137.51]
+[22:03:28] [Server thread/INFO]: Villager class_1646['Librarian'/19865, l='ServerLevel[ZaWarudo]', x=-72.41, y=72.00, z=158.70] died, message: 'Librarian burned to death'
+[22:03:44] [Server thread/INFO]: [tomisherio: Gave 1 [Birch Sign] to tomisherio]
+[22:03:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77005, l='ServerLevel[ZaWarudo]', x=-94.49, y=70.88, z=137.72]
+[22:17:53] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:18:33] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:20:52] [Server thread/INFO]: [tomisherio: Gave 1 [Glass] to tomisherio]
+[22:22:08] [Server thread/INFO]: [tomisherio: Gave 1 [Obsidian] to tomisherio]
+[22:24:29] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:24:41] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:24:43] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:25:26] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]

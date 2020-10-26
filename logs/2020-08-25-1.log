@@ -1,0 +1,49 @@
+[00:37:05] [User Authenticator #20/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[00:37:05] [Server thread/INFO]: tomisherio[/184.103.253.150:52157] logged in with entity id 2121318 at (1003.8514139071882, 92.3316679047504, 455.36125796641795)
+[00:37:05] [Server thread/INFO]: tomisherio joined the game
+[00:37:05] [Netty Server IO #22/INFO]: Player tomisherio joined with a matching carpet client
+[00:54:46] [Server thread/INFO]: [tomisherio: Gave 1 [Blue Bed] to tomisherio]
+[01:02:28] [Server thread/INFO]: [tomisherio: ]
+[01:02:28] [Server thread/INFO]: [tomisherio: Avg. server tick time: 17.605ms]
+[01:02:28] [Server thread/INFO]: [tomisherio: Network: 0.086ms]
+[01:02:28] [Server thread/INFO]: [tomisherio: Async Tasks: 0.099ms]
+[01:02:28] [Server thread/INFO]: [tomisherio: overworld:]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Spawning and Random Ticks: 1.257ms]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Blocks: 0.049ms]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Entities: 3.889ms]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Block Entities: 5.432ms]
+[01:02:28] [Server thread/INFO]: [tomisherio: the_nether:]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Spawning and Random Ticks: 1.517ms]
+[01:02:28] [Server thread/INFO]: [tomisherio:  - Entities: 5.017ms]
+[01:02:28] [Server thread/INFO]: [tomisherio: The Rest, whatever that might be: 0.257ms]
+[01:26:15] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[01:26:21] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[02:11:06] [Server thread/WARN]: tomisherio moved too quickly! -6.877061184524109,0.0,7.779302168842605
+[08:34:50] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[08:34:53] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:58:54] [Server thread/WARN]: tomisherio moved too quickly! 2.310415482921826,-10.0,5.192617636108821
+[10:23:32] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:23:49] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:26:52] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[10:26:59] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:28:34] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[12:37:16] [Server thread/WARN]: tomisherio moved too quickly! -6.513019107059108,-2.0,-7.664493705712459
+[12:55:26] [Server thread/INFO]: tomisherio was slain by Phantom
+[19:13:20] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:13:56] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:45:52] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:45:53] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:45:57] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[19:52:39] [Server thread/INFO]: Villager class_1646['Fletcher'/700, l='ServerLevel[ZaWarudo]', x=-60.05, y=69.00, z=110.38] died, message: 'Fletcher hit the ground too hard'
+[19:56:42] [Server thread/INFO]: Villager class_1646['Fletcher'/785, l='ServerLevel[ZaWarudo]', x=-47.17, y=69.00, z=85.35] died, message: 'Fletcher hit the ground too hard'
+[20:37:31] [Server thread/INFO]: Villager class_1646['Fletcher'/695, l='ServerLevel[ZaWarudo]', x=-58.84, y=69.00, z=85.34] died, message: 'Fletcher hit the ground too hard'
+[21:25:00] [Server thread/WARN]: tomisherio moved wrongly!
+[21:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1018, y=73, z=484} class_2338{x=1011, y=73, z=476}
+[21:59:52] [Server thread/INFO]: tomisherio was slain by Husk
+[22:16:38] [Server thread/WARN]: tomisherio moved wrongly!
+[22:48:34] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:48:57] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:00:35] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:29:08] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:39:19] [Server thread/WARN]: tomisherio moved wrongly!
+[23:55:36] [Server thread/INFO]: Villager class_1646['Fletcher'/617, l='ServerLevel[ZaWarudo]', x=-74.45, y=68.00, z=110.32] died, message: 'Fletcher hit the ground too hard'

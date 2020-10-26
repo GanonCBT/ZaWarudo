@@ -1,0 +1,134 @@
+[05:42:09] [User Authenticator #14/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[05:42:09] [Server thread/INFO]: tomisherio[/184.103.253.150:53776] logged in with entity id 1755206 at (1140.798559388605, 69.06774417984336, 506.58576474268716)
+[05:42:09] [Server thread/INFO]: tomisherio joined the game
+[05:42:10] [Netty Server IO #0/INFO]: Player tomisherio joined with a matching carpet client
+[06:17:59] [Server thread/INFO]: [tomisherio: Successfully filled 301 blocks]
+[06:18:52] [Server thread/INFO]: [tomisherio: Successfully filled 3 blocks]
+[06:19:12] [Server thread/INFO]: [tomisherio: Successfully filled 43 blocks]
+[10:08:29] [Server thread/INFO]: [tomisherio: Successfully filled 1 blocks]
+[10:08:40] [Server thread/INFO]: [tomisherio: Successfully filled 1 blocks]
+[10:08:45] [Server thread/INFO]: [tomisherio: Successfully filled 1 blocks]
+[10:22:56] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[10:22:59] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:29:31] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[10:29:33] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:29:59] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[10:30:10] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:31:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:32:10] [Server thread/INFO]: [tomisherio: Gave 64 [Chorus Flower] to tomisherio]
+[10:32:19] [Server thread/INFO]: [tomisherio: Gave 2 [Steak] to tomisherio]
+[10:33:29] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:36:02] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:40:16] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[10:40:23] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:40:36] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:43:10] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[10:43:34] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[17:57:14] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[17:57:17] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[18:10:13] [Server thread/INFO]: Villager class_1646['Fletcher'/696, l='ServerLevel[ZaWarudo]', x=-59.42, y=69.00, z=84.39] died, message: 'Fletcher hit the ground too hard'
+[18:32:15] [Server thread/INFO]: Villager class_1646['Fletcher'/614, l='ServerLevel[ZaWarudo]', x=-74.61, y=69.00, z=88.62] died, message: 'Fletcher hit the ground too hard'
+[18:35:25] [Server thread/INFO]: Villager class_1646['Fletcher'/730, l='ServerLevel[ZaWarudo]', x=-57.20, y=69.00, z=66.80] died, message: 'Fletcher hit the ground too hard'
+[18:40:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1848657, l='ServerLevel[ZaWarudo]', x=-13.83, y=6.00, z=33.88]
+[18:42:46] [Server thread/INFO]: Villager class_1646['Fletcher'/732, l='ServerLevel[ZaWarudo]', x=-58.62, y=69.00, z=63.37] died, message: 'Fletcher hit the ground too hard'
+[21:52:17] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 51.5, 67.0, -908.5]
+[21:52:33] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1239.5, 57.0, 926.5]
+[21:54:18] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[21:54:18] [Server thread/INFO]: tomisherio left the game
+[21:55:05] [User Authenticator #15/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[21:55:05] [Server thread/INFO]: tomisherio[/184.103.253.150:60123] logged in with entity id 1864626 at (-1287.450396809369, 44.421796568607505, 925.2212029861754)
+[21:55:05] [Server thread/INFO]: tomisherio joined the game
+[21:55:06] [Netty Server IO #2/INFO]: Player tomisherio joined with a matching carpet client
+[21:55:17] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 135.5, 160.0, 69.5]
+[21:58:09] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1239.5, 57.0, 926.5]
+[21:59:04] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:59:29] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:59:46] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:00:01] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 552.5, 70.0, -376.5]
+[22:00:01] [Server thread/WARN]: tomisherio moved too quickly! 1813.300115653448,4.445410706877425,-1293.0666701445316
+[22:00:32] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1239.5, 57.0, 926.5]
+[22:00:32] [Server thread/WARN]: tomisherio moved too quickly! -1775.0945286844315,-28.172395798780357,1366.363449208311
+[22:00:47] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:00:48] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:02:04] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 135.5, 160.0, 69.5]
+[22:02:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:06:26] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[22:06:26] [Server thread/INFO]: tomisherio left the game
+[22:09:01] [User Authenticator #16/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[22:09:01] [Server thread/INFO]: tomisherio[/184.103.253.150:60268] logged in with entity id 1871205 at (-342.95598215664853, 196.0, -97.02625945130416)
+[22:09:01] [Server thread/INFO]: tomisherio joined the game
+[22:09:02] [Netty Server IO #5/INFO]: Player tomisherio joined with a matching carpet client
+[22:11:05] [Server thread/INFO]: [tomisherio: Spawning tracking started.]
+[22:11:55] [Server thread/INFO]: [tomisherio: You are already tracking spawning.]
+[22:12:02] [Server thread/INFO]: [tomisherio: Spawning tracking stopped.]
+[22:12:04] [Server thread/INFO]: [tomisherio: Spawning tracking started.]
+[22:12:35] [Server thread/INFO]: [tomisherio: Spawning tracking stopped.]
+[22:14:58] [Server thread/WARN]: tomisherio moved too quickly! -13.553048560190064,-9.011269990004891,-9.8359427890299
+[22:16:21] [Server thread/INFO]: [tomisherio: ]
+[22:16:21] [Server thread/INFO]: [tomisherio: Avg. server tick time: 13.014ms]
+[22:16:21] [Server thread/INFO]: [tomisherio: Network: 0.130ms]
+[22:16:21] [Server thread/INFO]: [tomisherio: Async Tasks: 0.132ms]
+[22:16:21] [Server thread/INFO]: [tomisherio: overworld:]
+[22:16:21] [Server thread/INFO]: [tomisherio:  - Spawning and Random Ticks: 2.916ms]
+[22:16:21] [Server thread/INFO]: [tomisherio:  - Blocks: 0.049ms]
+[22:16:21] [Server thread/INFO]: [tomisherio:  - Entities: 2.446ms]
+[22:16:21] [Server thread/INFO]: [tomisherio:  - Block Entities: 7.122ms]
+[22:16:21] [Server thread/INFO]: [tomisherio:  - Village: 0.011ms]
+[22:16:21] [Server thread/INFO]: [tomisherio: The Rest, whatever that might be: 0.209ms]
+[22:25:04] [Server thread/INFO]: Steve[local] logged in with entity id 1876433 at (-341.56340636949915, 199.0, -93.48547086534016)
+[22:25:04] [Server thread/INFO]: Steve joined the game
+[22:25:04] [Server thread/INFO]: Steve has made the advancement [We Need to Go Deeper]
+[22:25:35] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1239.5, 57.0, 926.5]
+[22:26:24] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:26:30] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -213.5, 70.0, 475.5]
+[22:26:42] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -41.5, 134.0, 34.5]
+[22:26:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1877621, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.94, z=-94.28]
+[22:26:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1877623, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.94, z=-94.17]
+[22:27:04] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1217.5, 62.0, 917.5]
+[22:27:14] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -213.5, 70.0, 475.5]
+[22:27:19] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:27:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1878453, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.94, z=-94.37]
+[22:27:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1878455, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.94, z=-94.30]
+[22:27:34] [Server thread/INFO]: [tomisherio: Killed Steve]
+[22:27:34] [Server thread/INFO]: Steve lost connection: Killed
+[22:27:34] [Server thread/INFO]: Steve left the game
+[22:30:56] [Server thread/INFO]: [tomisherio: Successfully filled 64 blocks]
+[22:32:29] [Server thread/INFO]: [tomisherio: Successfully filled 81 blocks]
+[22:32:48] [Server thread/INFO]: [tomisherio: Successfully filled 90 blocks]
+[22:33:21] [Server thread/INFO]: [tomisherio: Successfully filled 90 blocks]
+[22:33:41] [Server thread/INFO]: [tomisherio: Successfully filled 90 blocks]
+[22:34:06] [Server thread/INFO]: [tomisherio: Successfully filled 80 blocks]
+[22:39:36] [Server thread/INFO]: Steve[local] logged in with entity id 1879421 at (-212.5895157243317, 70.0, 492.40905066114004)
+[22:39:36] [Server thread/INFO]: Steve joined the game
+[22:39:37] [Server thread/INFO]: Steve has made the advancement [A Terrible Fortress]
+[22:39:45] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:39:51] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:40:18] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:58:09] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:58:16] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:13:40] [Server thread/INFO]: [tomisherio: Teleported tomisherio to -1239.5, 57.0, 926.5]
+[23:13:43] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:13:46] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:14:58] [Server thread/WARN]: tomisherio moved too quickly! 7.6556414181839045,-0.44118906767783983,-16.70633744998372
+[23:15:30] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:15:49] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:17:34] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:18:14] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:21:24] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:21:42] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:29:49] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:30:09] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:52:43] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:53:22] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:56:02] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:56:27] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:56:29] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:56:52] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:56:55] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:57:00] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:57:14] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:57:33] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:58:28] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:58:31] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:58:35] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:59:14] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]

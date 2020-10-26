@@ -1,0 +1,63 @@
+{
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "main:main/acg": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "main:main/anti_ghast": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-08-30 23:53:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-08-30 23:53:06 -0500"
+    },
+    "done": false
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-08-31 20:21:14 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}

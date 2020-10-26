@@ -1,65 +1,13 @@
-[00:14:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1017, y=65, z=437} class_2338{x=1017, y=63, z=436}
-[00:27:12] [Server thread/WARN]: tomisherio moved wrongly!
-[02:13:28] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
-[02:15:45] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[03:39:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3081656, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-94.30]
-[04:02:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3108340, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-94.27]
-[04:41:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3154647, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.84]
-[05:33:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3216828, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.95]
-[06:15:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/3258325, l='ServerLevel[ZaWarudo]', x=-46.88, y=74.00, z=48.94]
-[06:46:21] [Server thread/WARN]: tomisherio moved wrongly!
-[10:34:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3511882, l='ServerLevel[ZaWarudo]', x=-339.70, y=198.00, z=-92.84]
-[13:04:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3690815, l='ServerLevel[ZaWarudo]', x=-339.18, y=198.00, z=-92.63]
-[15:12:38] [Server thread/INFO]: tomisherio has made the advancement [Ol' Betsy]
-[15:20:21] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
-[15:21:54] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[15:41:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3850510, l='ServerLevel[ZaWarudo]', x=-338.97, y=198.00, z=-94.12]
-[15:44:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Blue Wool'/3853038, l='ServerLevel[ZaWarudo]', x=-105.89, y=75.01, z=160.94]
-[15:56:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3855508, l='ServerLevel[ZaWarudo]', x=-34.24, y=6.00, z=33.34]
-[16:11:06] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
-[16:11:38] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[18:25:58] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
-[18:26:26] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[18:45:13] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
-[18:45:26] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[19:20:20] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
-[19:28:12] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[19:29:14] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[19:29:14] [Server thread/INFO]: tomisherio left the game
-[19:32:14] [User Authenticator #24/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
-[19:32:15] [Server thread/INFO]: tomisherio[/184.103.253.150:49865] logged in with entity id 3985107 at (1052.6068270631067, 72.34928254090562, 471.0049274512225)
-[19:32:15] [Server thread/INFO]: tomisherio joined the game
-[19:32:38] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
-[19:32:48] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[19:40:09] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
-[19:40:10] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
-[19:44:42] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[19:44:42] [Server thread/INFO]: tomisherio left the game
-[19:52:17] [User Authenticator #25/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
-[19:52:17] [Server thread/INFO]: tomisherio[/184.103.253.150:50058] logged in with entity id 3991263 at (-125.80637925737328, 69.0, 138.68744642592435)
-[19:52:17] [Server thread/INFO]: tomisherio joined the game
-[19:52:33] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[19:52:33] [Server thread/INFO]: tomisherio left the game
-[19:54:09] [User Authenticator #26/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
-[19:54:09] [Server thread/INFO]: tomisherio[/184.103.253.150:50108] logged in with entity id 3991462 at (-125.31088166968406, 69.0, 140.59395257830028)
-[19:54:09] [Server thread/INFO]: tomisherio joined the game
-[19:54:18] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[19:54:18] [Server thread/INFO]: tomisherio left the game
-[19:55:35] [User Authenticator #27/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
-[19:55:35] [Server thread/INFO]: tomisherio[/184.103.253.150:50148] logged in with entity id 3991667 at (-125.31088166968406, 69.0, 140.59395257830028)
-[19:55:35] [Server thread/INFO]: tomisherio joined the game
-[19:56:24] [Server thread/INFO]: tomisherio lost connection: Disconnected
-[19:56:24] [Server thread/INFO]: tomisherio left the game
-[21:40:22] [Server thread/INFO]: Stopping the server
-[21:40:23] [Server thread/INFO]: Stopping server
-[21:40:23] [Server thread/INFO]: Saving players
-[21:40:23] [Server thread/INFO]: Saving worlds
-[21:40:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:overworld
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
-[21:40:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_nether
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:40:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_end
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:32:33] [Server thread/INFO]: Stopping the server
+[19:32:33] [Server thread/INFO]: Stopping server
+[19:32:33] [Server thread/INFO]: Saving players
+[19:32:33] [Server thread/INFO]: Saving worlds
+[19:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:overworld
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[19:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_nether
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZaWarudo]'/minecraft:the_end
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZaWarudo): All chunks are saved
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

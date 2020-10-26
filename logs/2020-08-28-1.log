@@ -1,0 +1,187 @@
+[01:47:52] [Server thread/INFO]: tomisherio was slain by Husk
+[01:49:41] [Server thread/INFO]: [tomisherio: Teleported tomisherio to 1197.5, 67.0, 433.5]
+[01:49:44] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[01:49:45] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[01:49:49] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[01:49:50] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[03:01:24] [Server thread/WARN]: tomisherio moved too quickly! 3.4997190072006106,-12.0,-7.412347443240662
+[03:06:10] [Server thread/INFO]: tomisherio was slain by Husk
+[09:43:05] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[09:43:09] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:43:20] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[09:43:33] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[09:56:09] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[09:56:11] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[10:05:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/2634198, l='ServerLevel[ZaWarudo]', x=-34.94, y=6.00, z=34.90]
+[10:12:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/2635681, l='ServerLevel[ZaWarudo]', x=-34.90, y=6.01, z=13.06]
+[10:50:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Slimeball'/2642608, l='ServerLevel[ZaWarudo]', x=-34.94, y=6.00, z=34.94]
+[11:39:58] [Server thread/WARN]: tomisherio moved wrongly!
+[11:54:52] [Server thread/WARN]: tomisherio moved too quickly! 4.8903253047355975,-2.324548520290918,-16.560656232688302
+[18:38:21] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[18:38:21] [Server thread/INFO]: tomisherio left the game
+[18:41:32] [User Authenticator #22/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[18:41:32] [Server thread/INFO]: tomisherio[/184.103.253.150:63520] logged in with entity id 2656429 at (-1268.7350367997929, 59.0, 907.006282688943)
+[18:41:32] [Server thread/INFO]: tomisherio joined the game
+[18:41:35] [Netty Server IO #7/INFO]: Player tomisherio joined with a matching carpet client
+[18:44:10] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[18:48:51] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[18:48:51] [Server thread/INFO]: tomisherio left the game
+[18:49:31] [User Authenticator #23/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[18:49:31] [Server thread/INFO]: tomisherio[/184.103.253.150:63635] logged in with entity id 2656467 at (-1337.4774437007507, 60.819535104545714, 911.3475893377296)
+[18:49:31] [Server thread/INFO]: tomisherio joined the game
+[18:49:32] [Netty Server IO #10/INFO]: Player tomisherio joined with a matching carpet client
+[19:13:32] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:13:32] [Server thread/INFO]: tomisherio left the game
+[19:26:22] [User Authenticator #24/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:26:22] [Server thread/INFO]: tomisherio[/184.103.253.150:63938] logged in with entity id 2656513 at (-1285.3585197530488, 72.40176883585222, 916.1512211747552)
+[19:26:22] [Server thread/INFO]: tomisherio joined the game
+[19:26:23] [Netty Server IO #15/INFO]: Player tomisherio joined with a matching carpet client
+[19:26:32] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:26:32] [Server thread/INFO]: tomisherio left the game
+[19:28:03] [User Authenticator #25/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:28:03] [Server thread/INFO]: tomisherio[/184.103.253.150:63973] logged in with entity id 2656536 at (-1285.3585197530488, 72.40176883585222, 916.1512211747552)
+[19:28:03] [Server thread/INFO]: tomisherio joined the game
+[19:28:04] [Netty Server IO #19/INFO]: Player tomisherio joined with a matching carpet client
+[19:30:20] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:30:44] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:30:44] [Server thread/INFO]: tomisherio left the game
+[19:45:54] [User Authenticator #26/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[19:45:54] [Server thread/INFO]: tomisherio[/184.103.253.150:64058] logged in with entity id 2656566 at (-1266.516834385815, 71.68130681819487, 917.814433597408)
+[19:45:54] [Server thread/INFO]: tomisherio joined the game
+[19:45:55] [Netty Server IO #23/INFO]: Player tomisherio joined with a matching carpet client
+[19:46:45] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[19:49:16] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[19:49:42] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[19:49:42] [Server thread/INFO]: tomisherio left the game
+[20:28:51] [User Authenticator #27/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[20:28:51] [Server thread/INFO]: tomisherio[/184.103.253.150:64230] logged in with entity id 2656611 at (-1300.3709246657022, 53.221138566307424, 896.422971654049)
+[20:28:51] [Server thread/INFO]: tomisherio joined the game
+[20:28:52] [Netty Server IO #2/INFO]: Player tomisherio joined with a matching carpet client
+[20:29:49] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:56:40] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[20:58:05] [Server thread/INFO]: [tomisherio: Gave 1 [Beacon] to tomisherio]
+[20:58:20] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[20:58:46] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:01:05] [Server thread/WARN]: tomisherio moved wrongly!
+[21:05:37] [Server thread/WARN]: tomisherio moved wrongly!
+[21:26:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1258, y=72, z=924} class_2338{x=-1258, y=71, z=924}
+[21:26:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1258, y=72, z=924} class_2338{x=-1258, y=71, z=924}
+[21:26:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1258, y=72, z=924} class_2338{x=-1258, y=71, z=924}
+[21:26:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1258, y=72, z=924} class_2338{x=-1258, y=71, z=924}
+[21:27:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=71, z=910} class_2338{x=-1261, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1261, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1257, y=71, z=911} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=71, z=910} class_2338{x=-1258, y=71, z=911}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=71, z=910} class_2338{x=-1263, y=71, z=910}
+[21:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=71, z=910} class_2338{x=-1263, y=71, z=910}
+[21:27:34] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:27:44] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1240, y=71, z=899} class_2338{x=-1253, y=70, z=925}
+[21:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1240, y=71, z=899} class_2338{x=-1253, y=70, z=925}
+[21:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1240, y=71, z=899} class_2338{x=-1253, y=70, z=925}
+[21:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1240, y=71, z=899} class_2338{x=-1253, y=70, z=925}
+[21:31:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1258, y=63, z=924} class_2338{x=-1258, y=63, z=923}
+[21:32:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1259, y=70, z=911} class_2338{x=-1256, y=69, z=908}
+[21:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=69, z=907} class_2338{x=-1254, y=70, z=911}
+[21:33:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=913} class_2338{x=-1250, y=70, z=918}
+[21:33:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=913} class_2338{x=-1250, y=70, z=919}
+[21:33:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=913} class_2338{x=-1249, y=70, z=919}
+[21:33:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=913} class_2338{x=-1249, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=913} class_2338{x=-1250, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=920} class_2338{x=-1250, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=919} class_2338{x=-1250, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=920} class_2338{x=-1250, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1250, y=70, z=920}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1249, y=70, z=921}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1250, y=70, z=921}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=921} class_2338{x=-1250, y=70, z=921}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=920} class_2338{x=-1250, y=70, z=921}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1250, y=70, z=921}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=70, z=922} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=922} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=920} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=920} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=919} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=920} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=919} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=920} class_2338{x=-1249, y=70, z=922}
+[21:33:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=69, z=921} class_2338{x=-1249, y=70, z=922}
+[21:33:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1250, y=69, z=923}
+[21:33:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1250, y=69, z=923}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1250, y=69, z=922} class_2338{x=-1247, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=70, z=924} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1246, y=69, z=923} class_2338{x=-1246, y=69, z=924}
+[21:34:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1241, y=70, z=923} class_2338{x=-1240, y=70, z=923}
+[21:34:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1241, y=70, z=923} class_2338{x=-1240, y=70, z=923}
+[21:42:50] [Server thread/WARN]: tomisherio moved wrongly!
+[21:42:50] [Server thread/WARN]: tomisherio moved wrongly!
+[21:42:50] [Server thread/WARN]: tomisherio moved wrongly!
+[21:45:05] [Server thread/WARN]: tomisherio moved too quickly! 1013.9195743759768,13.580000013113022,-1746.708890777124
+[21:45:05] [Server thread/WARN]: Entity class_3222['tomisherio'/2656611, l='ServerLevel[ZaWarudo]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[21:46:38] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[21:47:14] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:51:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=66, z=895} class_2338{x=-1265, y=65, z=901}
+[21:51:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=66, z=905} class_2338{x=-1261, y=65, z=907}
+[21:51:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=66, z=905} class_2338{x=-1261, y=66, z=907}
+[21:51:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=66, z=905} class_2338{x=-1261, y=66, z=907}
+[21:52:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=66, z=907} class_2338{x=-1254, y=66, z=906}
+[21:52:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=66, z=907} class_2338{x=-1254, y=66, z=906}
+[21:52:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=66, z=907} class_2338{x=-1254, y=66, z=906}
+[21:52:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=66, z=907} class_2338{x=-1254, y=66, z=906}
+[21:52:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1254, y=66, z=898} class_2338{x=-1253, y=65, z=902}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:53:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1262, y=63, z=903} class_2338{x=-1261, y=64, z=903}
+[21:55:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1260, y=63, z=898}
+[21:55:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1261, y=64, z=896} class_2338{x=-1262, y=63, z=896}
+[22:00:05] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:00:06] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:12:52] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:13:08] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:01:59] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:02:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:52:24] [Server thread/WARN]: tomisherio moved wrongly!
+[23:52:30] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:53:06] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]

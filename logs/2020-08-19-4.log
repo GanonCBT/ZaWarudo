@@ -1,0 +1,85 @@
+[21:48:17] [main/INFO]: Loading for game Minecraft 1.16.2
+[21:48:17] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[21:48:22] [main/INFO]: [FabricLoader] Loading 46 mods: minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, inventorysorter@1.7.2-1.16, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.8+5ce533984e, fabricloader@0.9.2+build.206, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.6.0+e81ec80b4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, kyrptconfig@1.1.2-1.16, fabric-game-rule-api-v1@1.0.1+91555cd14e, bowinfinityfix@rv9, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.2.0+fc24ff244e, fabric-key-binding-api-v1@1.0.1+730711c64e, cloth-config2@4.7.0-unstable, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, blue_endless_jankson@+, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, fabric-commands-v0@0.2.0+52d308364e, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-renderer-registries-v1@2.1.0+e2862de64e, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric@0.18.0+build.397-1.16, carpet@1.4.8, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.6.1+ba4afa574e, fabric-networking-v0@0.1.10+e00ecb5f4e
+[21:48:22] [main/WARN]: Mod `bowinfinityfix` (rv9) does not respect SemVer - comparison support is limited.
+[21:48:22] [main/WARN]: Mod `blue_endless_jankson` (+) does not respect SemVer - comparison support is limited.
+[21:48:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/D:/winbackup/MinecraftServers/ZaWarudo/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[21:48:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:48:28] [main/INFO]: Found new data pack fabric/fabric-tool-attribute-api-v1, loading it automatically
+[21:48:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:48:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:48:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:28] [main/INFO]: Reloading ResourceManager: Default, anti creeper grief v1.0.2.zip, anti enderman grief v1.0.0.zip, anti ghast grief v1.0.0.zip, double shulker shells v1.2.0.zip, WrenchRP.zip, multiplayer sleep v1.0.2.zip, VanillaTweaks_c287303.zip, shulkershit.zip, Fabric Tool Attribute API (v1)
+[21:48:29] [Worker-Main-12/INFO]: Loaded 7 recipes
+[21:48:29] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[21:48:29] [Worker-Main-12/INFO]: Loaded 944 advancements
+[21:48:31] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[21:48:40] [Server thread/INFO]: Loading properties
+[21:48:40] [Server thread/INFO]: Default game type: SURVIVAL
+[21:48:40] [Server thread/INFO]: Generating keypair
+[21:48:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:48:40] [Server thread/INFO]: Using default channel type
+[21:48:41] [Server thread/INFO]: Preparing level "ZaWarudo"
+[21:48:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:48:41] [Server thread/INFO]: Preparing spawn area: 0%
+[21:48:41] [Server thread/INFO]: Preparing spawn area: 0%
+[21:48:42] [Server thread/INFO]: Time elapsed: 883 ms
+[21:48:42] [Server thread/INFO]: Done (1.008s)! For help, type "help"
+[21:49:43] [User Authenticator #1/INFO]: UUID of player GanonCann0n is ce34b950-cf6f-4093-8021-f361d57ec21e
+[21:49:43] [Server thread/INFO]: GanonCann0n[/192.168.1.1:53513] logged in with entity id 146 at (-167.88554257116655, 69.0, 74.41858355662727)
+[21:49:43] [Server thread/INFO]: GanonCann0n joined the game
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[21:49:43] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:oak_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:1},max_water_depth:0,trunk_placer:{height_rand_b:0,base_height:4,height_rand_a:2,type:"minecraft:straight_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:oak_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:blob_foliage_placer",radius_random:0,height:3}}}]
+[21:49:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[21:49:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[21:49:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[21:49:43] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[21:49:59] [Server thread/INFO]: GanonCann0n lost connection: Disconnected
+[21:49:59] [Server thread/INFO]: GanonCann0n left the game
+[21:55:57] [User Authenticator #2/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[21:55:57] [Server thread/INFO]: tomisherio[/184.103.253.150:51018] logged in with entity id 930 at (-125.31088166968406, 69.0, 140.59395257830028)
+[21:55:57] [Server thread/INFO]: tomisherio joined the game
+[21:55:58] [Netty Server IO #4/INFO]: Player tomisherio joined with a matching carpet client
+[21:56:08] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[21:56:08] [Server thread/INFO]: tomisherio left the game
+[21:57:44] [User Authenticator #3/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[21:57:44] [Server thread/INFO]: tomisherio[/184.103.253.150:51035] logged in with entity id 1092 at (-125.31088166968406, 69.0, 140.59395257830028)
+[21:57:44] [Server thread/INFO]: tomisherio joined the game
+[21:57:45] [Netty Server IO #6/INFO]: Player tomisherio joined with a matching carpet client
+[22:08:54] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:47:32] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:47:38] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[22:54:07] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:55:02] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:02:54] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:06:01] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:06:29] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:12:15] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:13:49] [Server thread/INFO]: [tomisherio: Applied effect Strength to tomisherio]
+[23:18:12] [Server thread/INFO]: [tomisherio: Applied effect Strength to tomisherio]
+[23:22:22] [Server thread/INFO]: [tomisherio: Applied effect Strength to tomisherio]
+[23:26:59] [Server thread/INFO]: [tomisherio: Applied effect Strength to tomisherio]
+[23:36:07] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:36:41] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:37:28] [Server thread/INFO]: [tomisherio: Applied effect Resistance to tomisherio]
+[23:37:36] [Server thread/INFO]: [tomisherio: Applied effect Regeneration to tomisherio]
+[23:37:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:38:23] [Server thread/INFO]: [tomisherio: ]
+[23:38:23] [Server thread/INFO]: [tomisherio: Avg. server tick time: 18.167ms]
+[23:38:23] [Server thread/INFO]: [tomisherio: Network: 0.085ms]
+[23:38:23] [Server thread/INFO]: [tomisherio: overworld:]
+[23:38:23] [Server thread/INFO]: [tomisherio:  - Spawning and Random Ticks: 0.376ms]
+[23:38:23] [Server thread/INFO]: [tomisherio: the_nether:]
+[23:38:23] [Server thread/INFO]: [tomisherio:  - Spawning and Random Ticks: 1.661ms]
+[23:38:23] [Server thread/INFO]: [tomisherio:  - Entities: 12.355ms]
+[23:38:23] [Server thread/INFO]: [tomisherio:  - Block Entities: 3.494ms]
+[23:38:23] [Server thread/INFO]: [tomisherio: The Rest, whatever that might be: 0.195ms]
+[23:57:08] [Server thread/INFO]: [tomisherio: Set own game mode to Creative Mode]
+[23:57:30] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]

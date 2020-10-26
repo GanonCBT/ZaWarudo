@@ -1,0 +1,36 @@
+[21:14:24] [User Authenticator #18/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[21:14:24] [Server thread/INFO]: tomisherio[/184.103.253.150:51403] logged in with entity id 2014716 at (1160.3688177490853, 68.0, 509.17957915173923)
+[21:14:24] [Server thread/INFO]: tomisherio joined the game
+[21:14:25] [Netty Server IO #12/INFO]: Player tomisherio joined with a matching carpet client
+[21:33:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1158, y=61, z=504} class_2338{x=1157, y=60, z=504}
+[21:33:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1158, y=61, z=504} class_2338{x=1157, y=60, z=504}
+[21:33:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1158, y=61, z=504} class_2338{x=1157, y=60, z=504}
+[21:54:03] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[21:54:03] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[21:55:51] [Server thread/WARN]: tomisherio moved wrongly!
+[22:03:33] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:03:39] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:07:55] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:07:57] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:09:45] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[22:10:07] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[22:29:18] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[22:29:18] [Server thread/INFO]: tomisherio left the game
+[22:41:00] [User Authenticator #19/INFO]: UUID of player tomisherio is 15e381a8-1724-43a6-8b15-5dadbe1369ab
+[22:41:00] [Server thread/INFO]: tomisherio[/184.103.253.150:51768] logged in with entity id 2036771 at (1003.1031613321617, 67.0, 487.69999998807907)
+[22:41:00] [Server thread/INFO]: tomisherio joined the game
+[22:41:00] [Netty Server IO #16/INFO]: Player tomisherio joined with a matching carpet client
+[22:53:46] [Server thread/INFO]: Villager class_1646['Fletcher'/787, l='ServerLevel[ZaWarudo]', x=-29.51, y=64.00, z=87.47] died, message: 'Fletcher hit the ground too hard'
+[23:04:55] [Server thread/WARN]: tomisherio moved too quickly! -10.514896235069727,-1.782555171433927,14.147475274322034
+[23:05:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[23:05:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:10,yspread:3,xspread:7,need_water:0b,zspread:7,project:0b,blacklist:[L;],block_placer:{extra_size:2,min_size:1,type:"minecraft:column_placer"},whitelist:[L;],state_provider:{state:{Properties:{age:"0"},Name:"minecraft:cactus"},type:"minecraft:simple_state_provider"},can_replace:0b}}]
+[23:05:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[23:05:38] [Server thread/WARN]: tomisherio moved too quickly! 1013.6969021175935,13.580000013113022,-1746.8973170636268
+[23:05:38] [Server thread/WARN]: Entity class_3222['tomisherio'/2036771, l='ServerLevel[ZaWarudo]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[23:05:39] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:05:39] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[23:21:08] [Server thread/INFO]: [tomisherio: Set own game mode to Spectator Mode]
+[23:21:11] [Server thread/INFO]: [tomisherio: Set own game mode to Survival Mode]
+[23:32:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2056737, l='ServerLevel[ZaWarudo]', x=971.13, y=76.01, z=517.30]
+[23:58:20] [Server thread/INFO]: tomisherio lost connection: Disconnected
+[23:58:20] [Server thread/INFO]: tomisherio left the game
